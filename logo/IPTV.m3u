@@ -1,0 +1,3 @@
+<br />
+<b>Deprecated</b>:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in <b>/var/www/html/tv/panel/get.php</b> on line <b>51</b><br />
+#EXTM3U url-tvg="http://minuskap.civ4-kap.dynv6.net/tv/panel/xmltv.php" x-tvg-url="http://minuskap.civ4-kap.dynv6.net/tv/panel/xmltv.php"
