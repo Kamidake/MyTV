@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://civ4kap.udptv.online/panel/xmltv.php" x-tvg-url="http://civ4kap.udptv.online/panel/xmltv.php"
 #EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" group-title="DOCUMENTARY",Animal Planet
-#EXTVLCOPT:http-user-agent=exoplayer potplayer
 http://civ4kap.udptv.online/panel/stream.php?id=804&token=0c14c8890f3b7c1e8a8caa419f388893a7e50a1f1b301d92770dbcbc21d4cfda
 #EXTINF:-1 tvg-id="iptv/asianfoodnetwork" tvg-name="Asian Food Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true" group-title="DOCUMENTARY",Asian Food Network
 http://civ4kap.udptv.online/panel/stream.php?id=809&token=0c14c8890f3b7c1e8a8caa419f388893a7e50a1f1b301d92770dbcbc21d4cfda
