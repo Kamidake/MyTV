@@ -1,0 +1,857 @@
+#EXTM3U url-tvg="http://civ4kap.udptv.online/panel/xmltv.php" x-tvg-url="http://civ4kap.udptv.online/panel/xmltv.php"
+#EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" group-title="DOCUMENTARY",Animal Planet
+http://civ4kap.udptv.online/panel/stream.php?id=804&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/asianfoodnetwork" tvg-name="Asian Food Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true" group-title="DOCUMENTARY",Asian Food Network
+http://civ4kap.udptv.online/panel/stream.php?id=809&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/bbcfood" tvg-name="BBC Food" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/bbc-food-vod.png?raw=true" group-title="DOCUMENTARY",BBC Food
+http://civ4kap.udptv.online/panel/stream.php?id=819&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/crimeinvestigation" tvg-name="Crime + Investigation DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/crime-and-investigation-de.png?raw=true" group-title="DOCUMENTARY",Crime + Investigation DE
+http://civ4kap.udptv.online/panel/stream.php?id=857&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Discovery.Asia.HD.my" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/discovery-asia-hk.png" group-title="DOCUMENTARY",Discovery Asia
+http://civ4kap.udptv.online/panel/stream.php?id=859&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="DOCUMENTARY",Discovery Channel
+http://civ4kap.udptv.online/panel/stream.php?id=860&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/discoverychannel" tvg-name="Discovery DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" group-title="DOCUMENTARY",Discovery DE
+http://civ4kap.udptv.online/panel/stream.php?id=862&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/discovery" tvg-name="Discovery US" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" group-title="DOCUMENTARY",Discovery US
+http://civ4kap.udptv.online/panel/stream.php?id=861&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/foodnetwork" tvg-name="Food Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" group-title="DOCUMENTARY",Food Network
+http://civ4kap.udptv.online/panel/stream.php?id=886&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="History.Hd.ph" tvg-name="History" tvg-logo="https://i.imgur.com/ZX4Ck4w.png" group-title="DOCUMENTARY",History
+http://civ4kap.udptv.online/panel/stream.php?id=942&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/history" tvg-name="History DE" tvg-logo="https://i.imgur.com/ZX4Ck4w.png" group-title="DOCUMENTARY",History DE
+http://civ4kap.udptv.online/panel/stream.php?id=943&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Love.Nature.my" tvg-name="Love Nature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/love-nature-uk.png?raw=true" group-title="DOCUMENTARY",Love Nature
+http://civ4kap.udptv.online/panel/stream.php?id=961&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Love.Nature.my" tvg-name="Love Nature 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/love-nature-4k-uk.png?raw=true" group-title="DOCUMENTARY",Love Nature 4K
+http://civ4kap.udptv.online/panel/stream.php?id=962&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="National.Geographic.Wild.lt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="DOCUMENTARY",Nat Geo Wild
+http://civ4kap.udptv.online/panel/stream.php?id=985&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/natgeowild" tvg-name="Nat Geo Wild US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="DOCUMENTARY",Nat Geo Wild US
+http://civ4kap.udptv.online/panel/stream.php?id=986&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="National.Geographic.lt" tvg-name="National Geographic Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="DOCUMENTARY",National Geographic Channel
+http://civ4kap.udptv.online/panel/stream.php?id=987&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.NationalGeographic" tvg-name="National Geographic Channel CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="DOCUMENTARY",National Geographic Channel CA
+http://civ4kap.udptv.online/panel/stream.php?id=988&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic Channel US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="DOCUMENTARY",National Geographic Channel US
+http://civ4kap.udptv.online/panel/stream.php?id=989&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/outdoorchannel" tvg-name="Outdoor Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="DOCUMENTARY",Outdoor Channel
+http://civ4kap.udptv.online/panel/stream.php?id=1014&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" group-title="DOCUMENTARY",Oxygen True Crime
+http://civ4kap.udptv.online/panel/stream.php?id=1015&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/13thstreet" tvg-name="13th Street DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="ENTERTAINMENT",13th Street DE
+http://civ4kap.udptv.online/panel/stream.php?id=787&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/kabc" tvg-name="ABC (KABC)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC (KABC)
+http://civ4kap.udptv.online/panel/stream.php?id=789&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/wabc" tvg-name="ABC (WABC)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC (WABC)
+http://civ4kap.udptv.online/panel/stream.php?id=790&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/abckgo" tvg-name="ABC(KGO)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC(KGO)
+http://civ4kap.udptv.online/panel/stream.php?id=793&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/adultswim" tvg-name="Adult Swim CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="ENTERTAINMENT",Adult Swim CA
+http://civ4kap.udptv.online/panel/stream.php?id=794&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/alibi" tvg-name="Alibi" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/alibi-uk.png?raw=true" group-title="ENTERTAINMENT",Alibi
+http://civ4kap.udptv.online/panel/stream.php?id=796&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/amc" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="ENTERTAINMENT",AMC
+http://civ4kap.udptv.online/panel/stream.php?id=799&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="ArirangTV(src01).kr" tvg-name="Arirang" tvg-logo="https://i.imgur.com/2NYcYrg.png" group-title="ENTERTAINMENT",Arirang
+http://civ4kap.udptv.online/panel/stream.php?id=808&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="fubo/cbs" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="ENTERTAINMENT",CBS
+http://civ4kap.udptv.online/panel/stream.php?id=839&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.CRAVE1" tvg-name="CRAVE 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-1-ca.png?raw=true" group-title="ENTERTAINMENT",CRAVE 1
+http://civ4kap.udptv.online/panel/stream.php?id=853&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.CRAVE2" tvg-name="CRAVE 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-2-ca.png?raw=true" group-title="ENTERTAINMENT",CRAVE 2
+http://civ4kap.udptv.online/panel/stream.php?id=854&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.CRAVE3" tvg-name="CRAVE 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-3-ca.png?raw=true" group-title="ENTERTAINMENT",CRAVE 3
+http://civ4kap.udptv.online/panel/stream.php?id=855&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.CRAVE4" tvg-name="CRAVE 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/crave-4-ca.png?raw=true" group-title="ENTERTAINMENT",CRAVE 4
+http://civ4kap.udptv.online/panel/stream.php?id=856&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="DMAX.HD.my" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="ENTERTAINMENT",DMAX
+http://civ4kap.udptv.online/panel/stream.php?id=869&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="nbc/eeast" tvg-name="E! East" tvg-logo="https://img.nbc.com/files/images/2019/3/20/E-Logo-White-95x300.png" group-title="ENTERTAINMENT",E! East
+http://civ4kap.udptv.online/panel/stream.php?id=875&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="nbc/ewest" tvg-name="E! West" tvg-logo="https://img.nbc.com/files/images/2019/3/20/E-Logo-White-95x300.png" group-title="ENTERTAINMENT",E! West
+http://civ4kap.udptv.online/panel/stream.php?id=876&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Global.Trekker.my" tvg-name="Global Trekker" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/global-trekker2.png" group-title="ENTERTAINMENT",Global Trekker
+http://civ4kap.udptv.online/panel/stream.php?id=900&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/gold" tvg-name="GOLD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gold-uk.png?raw=true" group-title="ENTERTAINMENT",GOLD
+http://civ4kap.udptv.online/panel/stream.php?id=908&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HGTV.HD.my" tvg-name="HGTV" tvg-logo="https://i.imgur.com/CgKCuW1.png" group-title="ENTERTAINMENT",HGTV
+http://civ4kap.udptv.online/panel/stream.php?id=941&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iQIYI.HD.my" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="ENTERTAINMENT",IQIYI
+http://civ4kap.udptv.online/panel/stream.php?id=949&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="K-Plus.HD.my" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/iomniFU.png" group-title="ENTERTAINMENT",K-Plus
+http://civ4kap.udptv.online/panel/stream.php?id=958&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="astro/kbskorea" tvg-name="KBS Korea" tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/232.png" group-title="ENTERTAINMENT",KBS Korea
+http://civ4kap.udptv.online/panel/stream.php?id=953&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="KBS.World.(HD).sg" tvg-name="KBS World" tvg-logo="https://i.imgur.com/QCjEJll.png" group-title="ENTERTAINMENT",KBS World
+http://civ4kap.udptv.online/panel/stream.php?id=954&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Kix.Hd.ph" tvg-name="KIX" tvg-logo="https://i.imgur.com/yHFRiFl.png" group-title="ENTERTAINMENT",KIX
+http://civ4kap.udptv.online/panel/stream.php?id=955&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Lifetime.HD.my" tvg-name="Lifetime" tvg-logo="https://i.imgur.com/iIp0xDS.png" group-title="ENTERTAINMENT",Lifetime
+http://civ4kap.udptv.online/panel/stream.php?id=959&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotus Macau" tvg-logo="https://i.imgur.com/W1u8QdQ.png" group-title="ENTERTAINMENT",Lotus Macau
+http://civ4kap.udptv.online/panel/stream.php?id=960&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/knbc" tvg-name="NBC (KNBC)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-4-knbc-us.png?raw=true" group-title="ENTERTAINMENT",NBC (KNBC)
+http://civ4kap.udptv.online/panel/stream.php?id=994&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="New.England.Sports.Network.us" tvg-name="NECN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/necn-us.png" group-title="ENTERTAINMENT",NECN
+http://civ4kap.udptv.online/panel/stream.php?id=996&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="ONE.HD.my" tvg-name="One TV Asia" tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-title="ENTERTAINMENT",One TV Asia
+http://civ4kap.udptv.online/panel/stream.php?id=1013&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="ENTERTAINMENT",Paramount Network
+http://civ4kap.udptv.online/panel/stream.php?id=1016&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" group-title="ENTERTAINMENT",Sky Arts UK
+http://civ4kap.udptv.online/panel/stream.php?id=1041&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Atlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="ENTERTAINMENT",Sky Atlantic
+http://civ4kap.udptv.online/panel/stream.php?id=1042&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skyatlantic" tvg-name="Sky Atlantic DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="ENTERTAINMENT",Sky Atlantic DE
+http://civ4kap.udptv.online/panel/stream.php?id=1044&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="ENTERTAINMENT",Sky Atlantic UK
+http://civ4kap.udptv.online/panel/stream.php?id=1043&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="ENTERTAINMENT",Sky Comedy UK
+http://civ4kap.udptv.online/panel/stream.php?id=1078&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skykrimi" tvg-name="Sky Krimi DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-krimi-de.png?raw=true" group-title="ENTERTAINMENT",Sky Krimi DE
+http://civ4kap.udptv.online/panel/stream.php?id=1082&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skyone" tvg-name="Sky One DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-one-de.png?raw=true" group-title="ENTERTAINMENT",Sky One DE
+http://civ4kap.udptv.online/panel/stream.php?id=1085&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skyreplay" tvg-name="Sky Replay DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-replay-de.png?raw=true" group-title="ENTERTAINMENT",Sky Replay DE
+http://civ4kap.udptv.online/panel/stream.php?id=1086&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skyshowcase" tvg-name="Sky Showcase DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-showcase-de.png?raw=true" group-title="ENTERTAINMENT",Sky Showcase DE
+http://civ4kap.udptv.online/panel/stream.php?id=1087&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/skyshowtime1" tvg-name="sky SHOWTIME 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/sky-showtime-1-no.png" group-title="ENTERTAINMENT",sky SHOWTIME 1
+http://civ4kap.udptv.online/panel/stream.php?id=1088&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/skyshowtime2" tvg-name="sky SHOWTIME 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/sky-showtime-2-no.png" group-title="ENTERTAINMENT",sky SHOWTIME 2
+http://civ4kap.udptv.online/panel/stream.php?id=1089&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="ENTERTAINMENT",Sky Uno
+http://civ4kap.udptv.online/panel/stream.php?id=1142&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/syfy" tvg-name="Syfy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="ENTERTAINMENT",Syfy
+http://civ4kap.udptv.online/panel/stream.php?id=1163&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/syfy" tvg-name="Syfy DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/syfy-de.png?raw=true" group-title="ENTERTAINMENT",Syfy DE
+http://civ4kap.udptv.online/panel/stream.php?id=1162&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Syfy.-.Western.Feed.us" tvg-name="Syfy East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-hz-us.png" group-title="ENTERTAINMENT",Syfy East
+http://civ4kap.udptv.online/panel/stream.php?id=1164&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="Syfy West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-hz-us.png" group-title="ENTERTAINMENT",Syfy West
+http://civ4kap.udptv.online/panel/stream.php?id=1165&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TLC.HD.my" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tlc-au.png" group-title="ENTERTAINMENT",TLC
+http://civ4kap.udptv.online/panel/stream.php?id=1176&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel Channel IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="ENTERTAINMENT",Travel Channel IT
+http://civ4kap.udptv.online/panel/stream.php?id=1184&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel Channel US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="ENTERTAINMENT",Travel Channel US
+http://civ4kap.udptv.online/panel/stream.php?id=1185&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Tvnpre.ph" tvg-name="tvN" tvg-logo="https://i.imgur.com/Z0u5pse.png" group-title="ENTERTAINMENT",tvN
+http://civ4kap.udptv.online/panel/stream.php?id=1194&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/universal" tvg-name="Universal TV DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/universal-tv-de.png?raw=true" group-title="ENTERTAINMENT",Universal TV DE
+http://civ4kap.udptv.online/panel/stream.php?id=1198&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="ENTERTAINMENT",USA East
+http://civ4kap.udptv.online/panel/stream.php?id=1200&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="ENTERTAINMENT",USA West
+http://civ4kap.udptv.online/panel/stream.php?id=1201&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Warnertv.Hd.ph" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/L6Ta5te.png" group-title="ENTERTAINMENT",Warner TV
+http://civ4kap.udptv.online/panel/stream.php?id=1210&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/warnertvcomedy" tvg-name="Warner TV Comedy DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-comedy-de.png?raw=true" group-title="ENTERTAINMENT",Warner TV Comedy DE
+http://civ4kap.udptv.online/panel/stream.php?id=1211&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/warnertvfilm" tvg-name="Warner TV Film DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-film-de.png?raw=true" group-title="ENTERTAINMENT",Warner TV Film DE
+http://civ4kap.udptv.online/panel/stream.php?id=1212&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/warnertvserie" tvg-name="Warner TV Serie DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="ENTERTAINMENT",Warner TV Serie DE
+http://civ4kap.udptv.online/panel/stream.php?id=1213&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Animax.(HD).sg" tvg-name="Animax" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="KIDS",Animax
+http://civ4kap.udptv.online/panel/stream.php?id=805&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-name="Anime x Hidive" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS",Anime x Hidive
+http://civ4kap.udptv.online/panel/stream.php?id=806&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="KIDS",Aniplus
+http://civ4kap.udptv.online/panel/stream.php?id=807&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/boomerang" tvg-name="Boomerang US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png" group-title="KIDS",Boomerang US
+http://civ4kap.udptv.online/panel/stream.php?id=833&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Cartoon Network
+http://civ4kap.udptv.online/panel/stream.php?id=835&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network MY" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Cartoon Network MY
+http://civ4kap.udptv.online/panel/stream.php?id=836&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/cartoonnetwork" tvg-name="Cartoon Network UK" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Cartoon Network UK
+http://civ4kap.udptv.online/panel/stream.php?id=837&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" tvg-name="Cartoonito" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoonito-us.png?raw=true" group-title="KIDS",Cartoonito
+http://civ4kap.udptv.online/panel/stream.php?id=838&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Dreamworktag.ph" tvg-name="Cignal Dreamworks" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="KIDS",Cignal Dreamworks
+http://civ4kap.udptv.online/panel/stream.php?id=843&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-name="Disney Channel CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel CA
+http://civ4kap.udptv.online/panel/stream.php?id=863&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/disneychannel" tvg-name="Disney Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel US
+http://civ4kap.udptv.online/panel/stream.php?id=864&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Disney.Junior.Canada.ca" tvg-name="Disney JR CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/300px-Disney_Jr._2024.svg.png" group-title="KIDS",Disney JR CA
+http://civ4kap.udptv.online/panel/stream.php?id=865&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/disneyjr" tvg-name="Disney JR US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/300px-Disney_Jr._2024.svg.png" group-title="KIDS",Disney JR US
+http://civ4kap.udptv.online/panel/stream.php?id=866&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Disney.XD.Canada.ca" tvg-name="Disney XD CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD CA
+http://civ4kap.udptv.online/panel/stream.php?id=867&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/disneyxd" tvg-name="Disney XD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD US
+http://civ4kap.udptv.online/panel/stream.php?id=868&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Dreamworks.Hd.ph" tvg-name="Dreamworks Tagalized" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="KIDS",Dreamworks Tagalized
+http://civ4kap.udptv.online/panel/stream.php?id=870&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Moonbug.my" tvg-name="Moonbug Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/moonbug-kids-my.png" group-title="KIDS",Moonbug Kids
+http://civ4kap.udptv.online/panel/stream.php?id=968&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Nick.Jr..my" tvg-name="Nick Junior" tvg-logo="https://i.imgur.com/HbSHzXU.png" group-title="KIDS",Nick Junior
+http://civ4kap.udptv.online/panel/stream.php?id=1002&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Nicktoons.lt" tvg-name="Nick Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/nick-toons-rs.png" group-title="KIDS",Nick Toons
+http://civ4kap.udptv.online/panel/stream.php?id=1005&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Nickelodeon.HD.my" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/kbIi1V6.png" group-title="KIDS",Nickelodeon
+http://civ4kap.udptv.online/panel/stream.php?id=1006&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-name="Sky Kids UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-kids-uk.png" group-title="KIDS",Sky Kids UK
+http://civ4kap.udptv.online/panel/stream.php?id=1081&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/teennick" tvg-name="Teen Nick" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="KIDS",Teen Nick
+http://civ4kap.udptv.online/panel/stream.php?id=1171&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="A2z.ph" tvg-name="A2Z" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="LOCAL",A2Z
+http://civ4kap.udptv.online/panel/stream.php?id=788&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/aliwtv" tvg-name="Aliw TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/ALIW-Channel-23.png/" group-title="LOCAL",Aliw TV
+http://civ4kap.udptv.online/panel/stream.php?id=797&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/alltv" tvg-name="ALL TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="LOCAL",ALL TV
+http://civ4kap.udptv.online/panel/stream.php?id=798&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC Global" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png" group-title="LOCAL",ANC Global
+http://civ4kap.udptv.online/panel/stream.php?id=802&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC PH" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png" group-title="LOCAL",ANC PH
+http://civ4kap.udptv.online/panel/stream.php?id=803&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/buko" tvg-name="Buko" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="LOCAL",Buko
+http://civ4kap.udptv.online/panel/stream.php?id=834&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One Global" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="LOCAL",Cinema One Global
+http://civ4kap.udptv.online/panel/stream.php?id=844&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One PH" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="LOCAL",Cinema One PH
+http://civ4kap.udptv.online/panel/stream.php?id=845&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="Cinemo Global" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="LOCAL",Cinemo Global
+http://civ4kap.udptv.online/panel/stream.php?id=847&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="Cinemo PH" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="LOCAL",Cinemo PH
+http://civ4kap.udptv.online/panel/stream.php?id=848&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/cltv36" tvg-name="CLTV 36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="LOCAL",CLTV 36
+http://civ4kap.udptv.online/panel/stream.php?id=849&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/DZMM_TeleRadyo.png/300px-DZMM_TeleRadyo.png" group-title="LOCAL",DZMM Teleradyo
+http://civ4kap.udptv.online/panel/stream.php?id=872&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TELERADYO.ph" tvg-name="DZMM Teleradyo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/DZMM_TeleRadyo.png/300px-DZMM_TeleRadyo.png" group-title="LOCAL",DZMM Teleradyo SD
+http://civ4kap.udptv.online/panel/stream.php?id=873&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="GMA.ph" tvg-name="GMA" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL",GMA
+http://civ4kap.udptv.online/panel/stream.php?id=901&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="GMA.Life.TV.hk" tvg-name="GMA Life TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="LOCAL",GMA Life TV
+http://civ4kap.udptv.online/panel/stream.php?id=902&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="GMA.News.TV.hk" tvg-name="GMA News TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/GMA_News_TV_Logo_2019.png" group-title="LOCAL",GMA News TV
+http://civ4kap.udptv.online/panel/stream.php?id=903&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="GMA.Pinoy.TV.hk" tvg-name="GMA Pinoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="LOCAL",GMA Pinoy TV
+http://civ4kap.udptv.online/panel/stream.php?id=904&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="LOCAL",GTV
+http://civ4kap.udptv.online/panel/stream.php?id=910&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/heartofasia" tvg-name="Heart of Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/400px-Heart_of_Asia_logo.svg.png" group-title="LOCAL",Heart of Asia
+http://civ4kap.udptv.online/panel/stream.php?id=940&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="IBC.TV.13.ph" tvg-name="IBC13" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png" group-title="LOCAL",IBC13
+http://civ4kap.udptv.online/panel/stream.php?id=947&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/iheartmovies" tvg-name="iHeart Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="LOCAL",iHeart Movies
+http://civ4kap.udptv.online/panel/stream.php?id=948&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/24/Jeepney_TV_Logo_2015.png/revision/latest/scale-to-width-down/300?cb=20220516124640" group-title="LOCAL",Jeepney TV
+http://civ4kap.udptv.online/panel/stream.php?id=950&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/jugopinoytv" tvg-name="Jugo Pinoy TV" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="LOCAL",Jugo Pinoy TV
+http://civ4kap.udptv.online/panel/stream.php?id=951&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="LOCAL",Kapamilya Channel
+http://civ4kap.udptv.online/panel/stream.php?id=952&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Knowledge.Channel.ph" tvg-name="Knowledge Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Knowledge-Channel.png" group-title="LOCAL",Knowledge Channel
+http://civ4kap.udptv.online/panel/stream.php?id=957&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Metro.Channel.ph" tvg-name="Metro Channel" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/25/Metro_Channel_Logo_2018.png/revision/latest/scale-to-width-down/350?" group-title="LOCAL",Metro Channel
+http://civ4kap.udptv.online/panel/stream.php?id=963&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Net.25.ph" tvg-name="NET25" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9d/Net_25_Logo_2021.png/revision/latest/scale-to-width-down/1200?cb=20220810102057" group-title="LOCAL",NET25
+http://civ4kap.udptv.online/panel/stream.php?id=997&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-name="One News" tvg-logo="https://i.imgur.com/flKo7E5.png" group-title="LOCAL",One News
+http://civ4kap.udptv.online/panel/stream.php?id=1009&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Oneph.ph" tvg-name="One PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/300px-OnePHCignal.svg.png" group-title="LOCAL",One PH
+http://civ4kap.udptv.online/panel/stream.php?id=1010&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Onesports.ph" tvg-name="One Sports" tvg-logo="https://i.imgur.com/RrBWZ16.png" group-title="LOCAL",One Sports
+http://civ4kap.udptv.online/panel/stream.php?id=1011&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-name="One Sports +" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="LOCAL",One Sports +
+http://civ4kap.udptv.online/panel/stream.php?id=1012&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/pbballaccesslivestream" tvg-name="PBB All-Access Livestream" tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="LOCAL",PBB All-Access Livestream
+http://civ4kap.udptv.online/panel/stream.php?id=1020&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://i.imgur.com/plyCuAw.png" group-title="LOCAL",PTV
+http://civ4kap.udptv.online/panel/stream.php?id=1029&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Rptv.ph" tvg-name="RPTV" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="LOCAL",RPTV
+http://civ4kap.udptv.online/panel/stream.php?id=1033&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sari.Sari.ph" tvg-name="Sari Sari" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="LOCAL",Sari Sari
+http://civ4kap.udptv.online/panel/stream.php?id=1034&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/screamflix" tvg-name="ScreamFlix" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/Scream_Flix_Logo_2022.png/revision/latest/scale-to-width-down/1200?cb=20220822212239" group-title="LOCAL",ScreamFlix
+http://civ4kap.udptv.online/panel/stream.php?id=1035&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/smni" tvg-name="SMNI" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="LOCAL",SMNI
+http://civ4kap.udptv.online/panel/stream.php?id=1143&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/dzbb" tvg-name="Super Radyo DZBB" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/95/Super_Radyo_DZBB_Logo_2018.png/revision/latest/scale-to-width-down/300?cb=20180310011541" group-title="LOCAL",Super Radyo DZBB
+http://civ4kap.udptv.online/panel/stream.php?id=1161&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Taptv.ph" tvg-name="Tap TV" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="LOCAL",Tap TV
+http://civ4kap.udptv.online/panel/stream.php?id=1170&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TFC.hk" tvg-name="TFC Asia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="LOCAL",TFC Asia
+http://civ4kap.udptv.online/panel/stream.php?id=1173&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TFC.hk" tvg-name="TFC Global" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="LOCAL",TFC Global
+http://civ4kap.udptv.online/panel/stream.php?id=1174&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Truefmtv.ph" tvg-name="True FM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="LOCAL",True FM TV
+http://civ4kap.udptv.online/panel/stream.php?id=1187&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tv5.ph" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="LOCAL",TV5 HD
+http://civ4kap.udptv.online/panel/stream.php?id=1193&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" tvg-name="tvN Movies Pinoy" tvg-logo="https://i.imgur.com/9fKNEHY.png" group-title="LOCAL",tvN Movies Pinoy
+http://civ4kap.udptv.online/panel/stream.php?id=1196&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-name="Viva Cinema" tvg-logo="https://i.imgur.com/5jn4U88.png" group-title="LOCAL",Viva Cinema
+http://civ4kap.udptv.online/panel/stream.php?id=1209&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/amcthrillers" tvg-name="AMC Thrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="MOVIES",AMC Thrillers
+http://civ4kap.udptv.online/panel/stream.php?id=801&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cinemax.ph" tvg-name="Astro Cinemax" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="MOVIES",Astro Cinemax
+http://civ4kap.udptv.online/panel/stream.php?id=811&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SHOWCASE.my" tvg-name="Astro Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="MOVIES",Astro Showcase
+http://civ4kap.udptv.online/panel/stream.php?id=814&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="AXN.HD.my" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="MOVIES",AXN
+http://civ4kap.udptv.online/panel/stream.php?id=817&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="BOO.HD.my" tvg-name="BOO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/boo-my.png" group-title="MOVIES",BOO
+http://civ4kap.udptv.online/panel/stream.php?id=832&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="MOVIES",Celestial Movies Pinoy
+http://civ4kap.udptv.online/panel/stream.php?id=841&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cinemax.ph" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="MOVIES",Cinemax
+http://civ4kap.udptv.online/panel/stream.php?id=846&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fxx" tvg-name="FX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="MOVIES",FX
+http://civ4kap.udptv.online/panel/stream.php?id=897&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fxm" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="MOVIES",FXM
+http://civ4kap.udptv.online/panel/stream.php?id=898&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fxx" tvg-name="FXX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="MOVIES",FXX
+http://civ4kap.udptv.online/panel/stream.php?id=899&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="MOVIES",HBO Comedy
+http://civ4kap.udptv.online/panel/stream.php?id=932&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Hbofam.ph" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="MOVIES",HBO Family
+http://civ4kap.udptv.online/panel/stream.php?id=933&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Hbohd.ph" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="MOVIES",HBO HD
+http://civ4kap.udptv.online/panel/stream.php?id=934&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Hbohits.ph" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="MOVIES",HBO Hits
+http://civ4kap.udptv.online/panel/stream.php?id=935&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Hbosign.ph" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="MOVIES",HBO Signature
+http://civ4kap.udptv.online/panel/stream.php?id=936&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO West" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="MOVIES",HBO West
+http://civ4kap.udptv.online/panel/stream.php?id=937&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="MOVIES",HBO Zone
+http://civ4kap.udptv.online/panel/stream.php?id=938&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="MOVIES",HBO2
+http://civ4kap.udptv.online/panel/stream.php?id=939&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-name="Hits" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="MOVIES",Hits
+http://civ4kap.udptv.online/panel/stream.php?id=944&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Hits.Movies.ph" tvg-name="Hits Movies" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="MOVIES",Hits Movies
+http://civ4kap.udptv.online/panel/stream.php?id=945&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="HITS.NOW.my" tvg-name="Hits Now" tvg-logo="https://i.imgur.com/tYfJVjx.png" group-title="MOVIES",Hits Now
+http://civ4kap.udptv.online/panel/stream.php?id=946&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/mgmdrivein" tvg-name="MGM+ Drive-In" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="MOVIES",MGM+ Drive-In
+http://civ4kap.udptv.online/panel/stream.php?id=964&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/mn" tvg-name="MN+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mn-plus-hd-in.png?raw=true" group-title="MOVIES",MN+
+http://civ4kap.udptv.online/panel/stream.php?id=966&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/mnx" tvg-name="MNX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-hd-in.png?raw=true" group-title="MOVIES",MNX
+http://civ4kap.udptv.online/panel/stream.php?id=967&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MOVIES.NOW.in" tvg-name="Movies Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/movies-now-hd-in.png" group-title="MOVIES",Movies Now
+http://civ4kap.udptv.online/panel/stream.php?id=969&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/ocnmovies" tvg-name="OCN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png" group-title="MOVIES",OCN Movies
+http://civ4kap.udptv.online/panel/stream.php?id=1007&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/ocnmovies2" tvg-name="OCN Movies 2" tvg-logo="https://i.imgur.com/Aja53VI.png" group-title="MOVIES",OCN Movies 2
+http://civ4kap.udptv.online/panel/stream.php?id=1008&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/paramountwithshowtime" tvg-name="Paramount+ with Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true" group-title="MOVIES",Paramount+ with Showtime
+http://civ4kap.udptv.online/panel/stream.php?id=1017&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/paramountwithshowtimewest" tvg-name="Paramount+ with Showtime West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true" group-title="MOVIES",Paramount+ with Showtime West
+http://civ4kap.udptv.online/panel/stream.php?id=1018&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="MOVIES",PBO
+http://civ4kap.udptv.online/panel/stream.php?id=1021&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="Rock Action" tvg-logo="https://i.imgur.com/bnrQIgB.png" group-title="MOVIES",Rock Action
+http://civ4kap.udptv.online/panel/stream.php?id=1031&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/U8IxzwO.png" group-title="MOVIES",Rock Entertainment
+http://civ4kap.udptv.online/panel/stream.php?id=1032&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/showtime2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES",Showtime 2
+http://civ4kap.udptv.online/panel/stream.php?id=1037&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/showtimeextreme" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="MOVIES",Showtime Extreme
+http://civ4kap.udptv.online/panel/stream.php?id=1038&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/showtimenext" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="MOVIES",Showtime Next
+http://civ4kap.udptv.online/panel/stream.php?id=1039&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/showtimeshowcase" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
+http://civ4kap.udptv.online/panel/stream.php?id=1040&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/skycinema2024picks" tvg-name="Sky Cinema 2024 Picks UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="MOVIES",Sky Cinema 2024 Picks UK
+http://civ4kap.udptv.online/panel/stream.php?id=1054&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-hz-it.png" group-title="MOVIES",Sky Cinema Action
+http://civ4kap.udptv.online/panel/stream.php?id=1055&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skycinemaaction" tvg-name="Sky Cinema Action DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="MOVIES",Sky Cinema Action DE
+http://civ4kap.udptv.online/panel/stream.php?id=1057&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="MOVIES",Sky Cinema Action UK
+http://civ4kap.udptv.online/panel/stream.php?id=1056&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="MOVIES",Sky Cinema Animation UK
+http://civ4kap.udptv.online/panel/stream.php?id=1058&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/skycinemabooktoscreen" tvg-name="Sky Cinema Book to Screen UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-kids-books-uk.png" group-title="MOVIES",Sky Cinema Book to Screen UK
+http://civ4kap.udptv.online/panel/stream.php?id=1059&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skycinemaclassics" tvg-name="Sky Cinema Classics DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-cinema-classics-de.png?raw=true" group-title="MOVIES",Sky Cinema Classics DE
+http://civ4kap.udptv.online/panel/stream.php?id=1060&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-hz-it.png" group-title="MOVIES",Sky Cinema Collection
+http://civ4kap.udptv.online/panel/stream.php?id=1061&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-hz-it.png" group-title="MOVIES",Sky Cinema Comedy
+http://civ4kap.udptv.online/panel/stream.php?id=1062&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/skycinemacomedy" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="MOVIES",Sky Cinema Comedy UK
+http://civ4kap.udptv.online/panel/stream.php?id=1063&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-hz-it.png" group-title="MOVIES",Sky Cinema Drama
+http://civ4kap.udptv.online/panel/stream.php?id=1064&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="MOVIES",Sky Cinema Drama UK
+http://civ4kap.udptv.online/panel/stream.php?id=1065&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-hz-it.png" group-title="MOVIES",Sky Cinema Due
+http://civ4kap.udptv.online/panel/stream.php?id=1066&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-hz-it.png" group-title="MOVIES",Sky Cinema Family
+http://civ4kap.udptv.online/panel/stream.php?id=1067&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skycinemafamily" tvg-name="Sky Cinema Family DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="MOVIES",Sky Cinema Family DE
+http://civ4kap.udptv.online/panel/stream.php?id=1069&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="MOVIES",Sky Cinema Family UK
+http://civ4kap.udptv.online/panel/stream.php?id=1068&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="MOVIES",Sky Cinema Greats UK
+http://civ4kap.udptv.online/panel/stream.php?id=1071&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skycinemahighlights" tvg-name="Sky Cinema Highlights DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-cinema-highlights-de.png?raw=true" group-title="MOVIES",Sky Cinema Highlights DE
+http://civ4kap.udptv.online/panel/stream.php?id=1070&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skycinemapremiere" tvg-name="Sky Cinema Premiere DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="MOVIES",Sky Cinema Premiere DE
+http://civ4kap.udptv.online/panel/stream.php?id=1073&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="MOVIES",Sky Cinema Premiere UK
+http://civ4kap.udptv.online/panel/stream.php?id=1072&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-hz-it.png" group-title="MOVIES",Sky Cinema Romance
+http://civ4kap.udptv.online/panel/stream.php?id=1074&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspence" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-hz-it.png" group-title="MOVIES",Sky Cinema Suspence
+http://civ4kap.udptv.online/panel/stream.php?id=1075&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="MOVIES",Sky Cinema Thriller UK
+http://civ4kap.udptv.online/panel/stream.php?id=1076&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-hz-it.png" group-title="MOVIES",Sky Cinema Uno
+http://civ4kap.udptv.online/panel/stream.php?id=1077&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="Sky Max UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="MOVIES",Sky Max UK
+http://civ4kap.udptv.online/panel/stream.php?id=1083&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" tvg-name="Tap Action Flix" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="MOVIES",Tap Action Flix
+http://civ4kap.udptv.online/panel/stream.php?id=1166&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tap.Edge.ph" tvg-name="Tap Edge" tvg-logo="https://i.imgur.com/yCuw3R2.png" group-title="MOVIES",Tap Edge
+http://civ4kap.udptv.online/panel/stream.php?id=1167&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-name="Tap Movies" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="MOVIES",Tap Movies
+http://civ4kap.udptv.online/panel/stream.php?id=1168&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TLC.ph" tvg-name="Thrill" tvg-logo="https://i.imgur.com/K134qCk.png" group-title="MOVIES",Thrill
+http://civ4kap.udptv.online/panel/stream.php?id=1175&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tagalized.Movie.Channel.ph" tvg-name="TMC" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="MOVIES",TMC
+http://civ4kap.udptv.online/panel/stream.php?id=1177&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="tvN Movies" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="MOVIES",tvN Movies
+http://civ4kap.udptv.online/panel/stream.php?id=1195&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="fubo/universalmovies" tvg-name="Universal Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/300px-Universal_Pictures_logo.svg.png" group-title="MOVIES",Universal Movies
+http://civ4kap.udptv.online/panel/stream.php?id=1197&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV.00s.se" tvg-name="MTV 00&#039;s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/mtv-00s-eu.png" group-title="MUSIC",MTV 00&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=972&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/80s" tvg-name="MTV 80&#039;s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-80s-uk.png?raw=true" group-title="MUSIC",MTV 80&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=973&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV90S.ph" tvg-name="MTV 90&#039;s" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/refs/heads/main/countries/serbia/mtv-90s-rs.png" group-title="MUSIC",MTV 90&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=974&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="fubo/mtvclassic" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="MUSIC",MTV Classic
+http://civ4kap.udptv.online/panel/stream.php?id=975&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/mtvclub" tvg-name="MTV Club" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/mtv-club-au.png?raw=true" group-title="MUSIC",MTV Club
+http://civ4kap.udptv.online/panel/stream.php?id=976&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV.Hits.se" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/mtv-hits-rs.png" group-title="MUSIC",MTV Hits
+http://civ4kap.udptv.online/panel/stream.php?id=977&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV.Live.my" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/LUMQhnM.png" group-title="MUSIC",MTV Live
+http://civ4kap.udptv.online/panel/stream.php?id=978&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live IT" tvg-logo="https://i.imgur.com/LUMQhnM.png" group-title="MUSIC",MTV Live IT
+http://civ4kap.udptv.online/panel/stream.php?id=979&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live US" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="MUSIC",MTV Live US
+http://civ4kap.udptv.online/panel/stream.php?id=980&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/mtvlive" tvg-name="MTV UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/mtv-live-hd-uk.png" group-title="MUSIC",MTV UK
+http://civ4kap.udptv.online/panel/stream.php?id=981&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="fubo/mtvu" tvg-name="MTVU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="MUSIC",MTVU
+http://civ4kap.udptv.online/panel/stream.php?id=982&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MYX.ph" tvg-name="Myx Global" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="MUSIC",Myx Global
+http://civ4kap.udptv.online/panel/stream.php?id=983&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="MYX.ph" tvg-name="MYX PH" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="MUSIC",MYX PH
+http://civ4kap.udptv.online/panel/stream.php?id=984&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/nickmusic" tvg-name="Nick Music AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="MUSIC",Nick Music AU
+http://civ4kap.udptv.online/panel/stream.php?id=1003&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="fubo/nickmusic" tvg-name="Nick Music US" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="MUSIC",Nick Music US
+http://civ4kap.udptv.online/panel/stream.php?id=1004&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.2K.plex" tvg-name="Vevo 2K" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/vevo_2k._SL170_FMpng_.png" group-title="MUSIC",Vevo 2K
+http://civ4kap.udptv.online/panel/stream.php?id=1202&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`70s.plex" tvg-name="Vevo 70&#039;s" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_70s._SL170_FMpng_.png" group-title="MUSIC",Vevo 70&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=1203&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`80s.plex" tvg-name="Vevo 80&#039;s" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_80s._SL170_FMpng_.png" group-title="MUSIC",Vevo 80&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=1204&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.`90s.plex" tvg-name="Vevo 90&#039;s" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_90s._SL170_FMpng_.png" group-title="MUSIC",Vevo 90&#039;s
+http://civ4kap.udptv.online/panel/stream.php?id=1205&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.Country.plex" tvg-name="Vevo Country" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_Country._SL170_FMpng_.png" group-title="MUSIC",Vevo Country
+http://civ4kap.udptv.online/panel/stream.php?id=1206&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.Hip-Hop.plex" tvg-name="Vevo Hip-hop" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_Hip_Hop._SL170_FMpng_.png" group-title="MUSIC",Vevo Hip-hop
+http://civ4kap.udptv.online/panel/stream.php?id=1207&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="plex.tv.Vevo.Pop.plex" tvg-name="Vevo R&amp;B" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_R_B._SL170_FMpng_.png" group-title="MUSIC",Vevo R&amp;B
+http://civ4kap.udptv.online/panel/stream.php?id=1208&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="ABC.Australia.HD.my" tvg-name="ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/350px-ABC_Australia_logo.svg.png" group-title="NEWS",ABC Australia
+http://civ4kap.udptv.online/panel/stream.php?id=791&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/abcnewslive" tvg-name="ABC News Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-live-hz-us.png?raw=true" group-title="NEWS",ABC News Live
+http://civ4kap.udptv.online/panel/stream.php?id=792&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Al.Jazeera.English.HD.my" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="NEWS",Al Jazeera
+http://civ4kap.udptv.online/panel/stream.php?id=795&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="AMC.lt" tvg-name="AMC IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="NEWS",AMC IT
+http://civ4kap.udptv.online/panel/stream.php?id=800&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="BBC.Earth.my" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/bbc-earth-ca.png" group-title="NEWS",BBC Earth
+http://civ4kap.udptv.online/panel/stream.php?id=818&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="BBC.News.HD.my" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",BBC News
+http://civ4kap.udptv.online/panel/stream.php?id=820&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-name="Billonaryo News Channel" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/Bilyonaryo_News_Channel_Logo_2024.png" group-title="NEWS",Billonaryo News Channel
+http://civ4kap.udptv.online/panel/stream.php?id=829&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Bloomberg.TV.HD.my" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="NEWS",Bloomberg TV
+http://civ4kap.udptv.online/panel/stream.php?id=831&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="CGTN.HD.my" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cgtn-int.png" group-title="NEWS",CGTN
+http://civ4kap.udptv.online/panel/stream.php?id=842&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="CNA.HD.my" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cna-int.png" group-title="NEWS",CNA
+http://civ4kap.udptv.online/panel/stream.php?id=850&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="CNBC.Asia.HD.my" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="NEWS",CNBC
+http://civ4kap.udptv.online/panel/stream.php?id=851&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cnn.Hd.ph" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="NEWS",CNN
+http://civ4kap.udptv.online/panel/stream.php?id=852&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="DW.English.my" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NEWS",DW
+http://civ4kap.udptv.online/panel/stream.php?id=871&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/dzrhtv" tvg-name="DZRH TV" tvg-logo="https://i.imgur.com/2nvjsfy.png" group-title="NEWS",DZRH TV
+http://civ4kap.udptv.online/panel/stream.php?id=874&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fox11" tvg-name="FOX 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-11-kttv-us.png?raw=true" group-title="NEWS",FOX 11
+http://civ4kap.udptv.online/panel/stream.php?id=887&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/foxnews" tvg-name="Fox News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="NEWS",Fox News
+http://civ4kap.udptv.online/panel/stream.php?id=888&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="France24.my" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/france-24-int.png" group-title="NEWS",France 24
+http://civ4kap.udptv.online/panel/stream.php?id=893&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/knbc" tvg-name="KNBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-4-knbc-us.png?raw=true" group-title="NEWS",KNBC
+http://civ4kap.udptv.online/panel/stream.php?id=956&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Nhk.Japan.ph" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/360px-NHK_World.svg.png" group-title="NEWS",NHK World Japan
+http://civ4kap.udptv.online/panel/stream.php?id=1000&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NHK.World.Premium.my" tvg-name="NHK World Premium" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png" group-title="NEWS",NHK World Premium
+http://civ4kap.udptv.online/panel/stream.php?id=1001&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.News.HD.my" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sky-news-hd-au.png" group-title="NEWS",Sky News
+http://civ4kap.udptv.online/panel/stream.php?id=1084&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/untv" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="NEWS",UNTV
+http://civ4kap.udptv.online/panel/stream.php?id=1199&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Arena.my" tvg-name="Astro Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="SPORTS",Astro Arena
+http://civ4kap.udptv.online/panel/stream.php?id=810&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="SPORTS",Astro Football
+http://civ4kap.udptv.online/panel/stream.php?id=812&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Premier.my" tvg-name="Astro Premier Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="SPORTS",Astro Premier Sports
+http://civ4kap.udptv.online/panel/stream.php?id=813&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Sports.Plus.my" tvg-name="Astro Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS",Astro Sports Plus
+http://civ4kap.udptv.online/panel/stream.php?id=815&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="Astro Sports UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS",Astro Sports UHD
+http://civ4kap.udptv.online/panel/stream.php?id=816&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORTS",Bein Sports 1
+http://civ4kap.udptv.online/panel/stream.php?id=821&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",Bein Sports 2
+http://civ4kap.udptv.online/panel/stream.php?id=822&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.(HD).sg" tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORTS",Bein Sports 3
+http://civ4kap.udptv.online/panel/stream.php?id=823&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.(HD).sg" tvg-name="Bein Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="SPORTS",Bein Sports 4
+http://civ4kap.udptv.online/panel/stream.php?id=824&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.(HD).sg" tvg-name="Bein Sports 5" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="SPORTS",Bein Sports 5
+http://civ4kap.udptv.online/panel/stream.php?id=825&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/beinsports" tvg-name="Bein Sports HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="SPORTS",Bein Sports HD
+http://civ4kap.udptv.online/panel/stream.php?id=826&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="413152" tvg-name="Bein Sports Xtra" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="SPORTS",Bein Sports Xtra
+http://civ4kap.udptv.online/panel/stream.php?id=827&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/billardtv" tvg-name="Billard TV" tvg-logo="https://p-img.movetv.com/cms/images/be553f7355653b3bc0755048f20ec9f0b11d4c77.png/height=183" group-title="SPORTS",Billard TV
+http://civ4kap.udptv.online/panel/stream.php?id=828&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="blastPH.Blast.Sports" tvg-name="Blast Sports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS",Blast Sports
+http://civ4kap.udptv.online/panel/stream.php?id=830&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/cbssportsgolazo" tvg-name="CBS Sports Golazo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" group-title="SPORTS",CBS Sports Golazo
+http://civ4kap.udptv.online/panel/stream.php?id=840&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/daznringside" tvg-name="DAZN Ringside" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dazn_ringside._SL170_FMpng_.png" group-title="SPORTS",DAZN Ringside
+http://civ4kap.udptv.online/panel/stream.php?id=858&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/espn" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS",ESPN
+http://civ4kap.udptv.online/panel/stream.php?id=877&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/espn2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="SPORTS",ESPN 2
+http://civ4kap.udptv.online/panel/stream.php?id=878&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/espnnews" tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png" group-title="SPORTS",ESPN News
+http://civ4kap.udptv.online/panel/stream.php?id=879&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/espnu" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="SPORTS",ESPN U
+http://civ4kap.udptv.online/panel/stream.php?id=880&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="EUROSPORT.my" tvg-name="Eurosport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="SPORTS",Eurosport
+http://civ4kap.udptv.online/panel/stream.php?id=881&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Eurosport.1.lt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="SPORTS",Eurosport 1
+http://civ4kap.udptv.online/panel/stream.php?id=882&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Eurosport.2.lt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="SPORTS",Eurosport 2
+http://civ4kap.udptv.online/panel/stream.php?id=883&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/fanduelsportsnetworkextra" tvg-name="Fanduel Sports Network Extra" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fd_extra_lg_hr_rgb_wt.png" group-title="SPORTS",Fanduel Sports Network Extra
+http://civ4kap.udptv.online/panel/stream.php?id=884&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/fanduelsportsnetworksouthwest" tvg-name="Fanduel Sports Network Southwest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/300px-FanDuel_Sports_Network_logo.svg.png" group-title="SPORTS",Fanduel Sports Network Southwest
+http://civ4kap.udptv.online/panel/stream.php?id=885&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fox4K" tvg-name="FOX 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="SPORTS",FOX 4K
+http://civ4kap.udptv.online/panel/stream.php?id=889&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="SPORTS",FOX Sports
+http://civ4kap.udptv.online/panel/stream.php?id=890&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-asia/fox-sports-2-asi.png" group-title="SPORTS",FOX Sports 2
+http://civ4kap.udptv.online/panel/stream.php?id=891&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-asia/fox-sports-3-asi.png" group-title="SPORTS",FOX Sports 3
+http://civ4kap.udptv.online/panel/stream.php?id=892&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORTS",FS1
+http://civ4kap.udptv.online/panel/stream.php?id=895&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sling/fs14K" tvg-name="FS1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORTS",FS1 4K
+http://civ4kap.udptv.online/panel/stream.php?id=894&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORTS",FS2
+http://civ4kap.udptv.online/panel/stream.php?id=896&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Go3.Sport.1.lt" tvg-name="Go3 Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-1-lt.png" group-title="SPORTS",Go3 Sport
+http://civ4kap.udptv.online/panel/stream.php?id=905&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Go3.Sport.2.lt" tvg-name="Go3 Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-2-lt.png" group-title="SPORTS",Go3 Sport 2
+http://civ4kap.udptv.online/panel/stream.php?id=906&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Go3.Sport.Open.lt" tvg-name="Go3 Sport Open" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-open-lt.png" group-title="SPORTS",Go3 Sport Open
+http://civ4kap.udptv.online/panel/stream.php?id=907&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="astro/golfchannel" tvg-name="Golf Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="SPORTS",Golf Channel
+http://civ4kap.udptv.online/panel/stream.php?id=909&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.HBOBoxing" tvg-name="HBO Boxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="SPORTS",HBO Boxing
+http://civ4kap.udptv.online/panel/stream.php?id=931&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier1" tvg-name="Hub Premier 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="SPORTS",Hub Premier 1
+http://civ4kap.udptv.online/panel/stream.php?id=911&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier10" tvg-name="Hub Premier 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-10-sg.png?raw=true" group-title="SPORTS",Hub Premier 10
+http://civ4kap.udptv.online/panel/stream.php?id=921&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier11" tvg-name="Hub Premier 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-11-sg.png?raw=true" group-title="SPORTS",Hub Premier 11
+http://civ4kap.udptv.online/panel/stream.php?id=922&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier2" tvg-name="Hub Premier 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="SPORTS",Hub Premier 2
+http://civ4kap.udptv.online/panel/stream.php?id=912&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier2uhd" tvg-name="Hub Premier 2 UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-uhd-sg.png?raw=true" group-title="SPORTS",Hub Premier 2 UHD
+http://civ4kap.udptv.online/panel/stream.php?id=913&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier3" tvg-name="Hub Premier 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="SPORTS",Hub Premier 3
+http://civ4kap.udptv.online/panel/stream.php?id=914&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier4" tvg-name="Hub Premier 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="SPORTS",Hub Premier 4
+http://civ4kap.udptv.online/panel/stream.php?id=915&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier5" tvg-name="Hub Premier 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-5-sg.png?raw=true" group-title="SPORTS",Hub Premier 5
+http://civ4kap.udptv.online/panel/stream.php?id=916&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier6" tvg-name="Hub Premier 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-6-sg.png?raw=true" group-title="SPORTS",Hub Premier 6
+http://civ4kap.udptv.online/panel/stream.php?id=917&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier7" tvg-name="Hub Premier 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-7-sg.png?raw=true" group-title="SPORTS",Hub Premier 7
+http://civ4kap.udptv.online/panel/stream.php?id=918&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier8" tvg-name="Hub Premier 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-8-sg.png?raw=true" group-title="SPORTS",Hub Premier 8
+http://civ4kap.udptv.online/panel/stream.php?id=919&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubpremier9" tvg-name="Hub Premier 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-9-sg.png?raw=true" group-title="SPORTS",Hub Premier 9
+http://civ4kap.udptv.online/panel/stream.php?id=920&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports1" tvg-name="Hub Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="SPORTS",Hub Sports 1
+http://civ4kap.udptv.online/panel/stream.php?id=923&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports2" tvg-name="Hub Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="SPORTS",Hub Sports 2
+http://civ4kap.udptv.online/panel/stream.php?id=924&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports3" tvg-name="Hub Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="SPORTS",Hub Sports 3
+http://civ4kap.udptv.online/panel/stream.php?id=925&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports4" tvg-name="Hub Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="SPORTS",Hub Sports 4
+http://civ4kap.udptv.online/panel/stream.php?id=926&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports5" tvg-name="Hub Sports 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="SPORTS",Hub Sports 5
+http://civ4kap.udptv.online/panel/stream.php?id=927&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports6" tvg-name="Hub Sports 6" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/custom/hub-sports-6-sg.png?raw=true" group-title="SPORTS",Hub Sports 6
+http://civ4kap.udptv.online/panel/stream.php?id=928&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports7" tvg-name="Hub Sports 7" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/custom/hub-sports-7-sg.png?raw=true" group-title="SPORTS",Hub Sports 7
+http://civ4kap.udptv.online/panel/stream.php?id=929&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/hubsports8" tvg-name="Hub Sports 8" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/custom/hub-sports-8-sg.png?raw=true" group-title="SPORTS",Hub Sports 8
+http://civ4kap.udptv.online/panel/stream.php?id=930&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/mlbnetwork" tvg-name="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="SPORTS",MLB Network
+http://civ4kap.udptv.online/panel/stream.php?id=965&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cg.Mptv.ph" tvg-name="MPTV" tvg-logo="https://i.imgur.com/TM1LvZZ.png" group-title="SPORTS",MPTV
+http://civ4kap.udptv.online/panel/stream.php?id=970&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/msgsportszone" tvg-name="MSG Sportszone" tvg-logo="https://www.amny.com/wp-content/uploads/2023/03/MSG-SportsZone-BLACK-REV.png" group-title="SPORTS",MSG Sportszone
+http://civ4kap.udptv.online/panel/stream.php?id=971&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV - NBALP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="SPORTS",NBA TV - NBALP
+http://civ4kap.udptv.online/panel/stream.php?id=990&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV HDTV" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" group-title="SPORTS",NBA TV HDTV
+http://civ4kap.udptv.online/panel/stream.php?id=991&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-name="NBA TV Philippines" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="SPORTS",NBA TV Philippines
+http://civ4kap.udptv.online/panel/stream.php?id=992&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="SPORTS",NBA TV USA
+http://civ4kap.udptv.online/panel/stream.php?id=993&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="nbc/nbcgolf" tvg-name="NBC Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="SPORTS",NBC Golf
+http://civ4kap.udptv.online/panel/stream.php?id=995&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.NFLNetwork" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="SPORTS",NFL Network
+http://civ4kap.udptv.online/panel/stream.php?id=998&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/nflredzonenetwork" tvg-name="NFL Redzone Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS",NFL Redzone Network
+http://civ4kap.udptv.online/panel/stream.php?id=999&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-name="PBA Rush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="SPORTS",PBA Rush
+http://civ4kap.udptv.online/panel/stream.php?id=1019&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/ppvch1" tvg-name="PPV CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH1
+http://civ4kap.udptv.online/panel/stream.php?id=1027&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptv/ppvch2" tvg-name="PPV CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH2
+http://civ4kap.udptv.online/panel/stream.php?id=1028&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="SPORTS",Premier League
+http://civ4kap.udptv.online/panel/stream.php?id=1022&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="blastPH.Premier.Sports" tvg-name="Premier Sports" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png" group-title="SPORTS",Premier Sports
+http://civ4kap.udptv.online/panel/stream.php?id=1023&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/premiersports1" tvg-name="Premier Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="SPORTS",Premier Sports 1 UK
+http://civ4kap.udptv.online/panel/stream.php?id=1024&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="blastPH.Premier.Sports.2" tvg-name="Premier Sports 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172018-cca8pjjxus5tlupb.png" group-title="SPORTS",Premier Sports 2
+http://civ4kap.udptv.online/panel/stream.php?id=1025&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/premiersports2" tvg-name="Premier Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="SPORTS",Premier Sports 2 UK
+http://civ4kap.udptv.online/panel/stream.php?id=1026&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Amazon.US.RedBullTV" tvg-name="Red Bull TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true" group-title="SPORTS",Red Bull TV
+http://civ4kap.udptv.online/panel/stream.php?id=1030&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Setanta.LT.lt" tvg-name="Setanta Sports 1" tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561002.png" group-title="SPORTS",Setanta Sports 1
+http://civ4kap.udptv.online/panel/stream.php?id=1036&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio1" tvg-name="Sky Calcio 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 1
+http://civ4kap.udptv.online/panel/stream.php?id=1045&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio2" tvg-name="Sky Calcio 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 2
+http://civ4kap.udptv.online/panel/stream.php?id=1046&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio3" tvg-name="Sky Calcio 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 3
+http://civ4kap.udptv.online/panel/stream.php?id=1047&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio4" tvg-name="Sky Calcio 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 4
+http://civ4kap.udptv.online/panel/stream.php?id=1048&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio5" tvg-name="Sky Calcio 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 5
+http://civ4kap.udptv.online/panel/stream.php?id=1049&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio6" tvg-name="Sky Calcio 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 6
+http://civ4kap.udptv.online/panel/stream.php?id=1050&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio7" tvg-name="Sky Calcio 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 7
+http://civ4kap.udptv.online/panel/stream.php?id=1051&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio8" tvg-name="Sky Calcio 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 8
+http://civ4kap.udptv.online/panel/stream.php?id=1052&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="sky/skycalcio9" tvg-name="Sky Calcio 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Calcio 9
+http://civ4kap.udptv.online/panel/stream.php?id=1053&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Eurosport.1.it" tvg-name="Sky Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="SPORTS",Sky Eurosport 1
+http://civ4kap.udptv.online/panel/stream.php?id=1079&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Eurosport.2.it" tvg-name="Sky Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="SPORTS",Sky Eurosport 2
+http://civ4kap.udptv.online/panel/stream.php?id=1080&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport1" tvg-name="Sky Sport 1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="SPORTS",Sky Sport 1 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1090&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport10" tvg-name="Sky Sport 10 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="SPORTS",Sky Sport 10 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1099&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport2" tvg-name="Sky Sport 2 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="SPORTS",Sky Sport 2 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1091&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="SPORTS",Sky Sport 24
+http://civ4kap.udptv.online/panel/stream.php?id=1111&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport3" tvg-name="Sky Sport 3 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="SPORTS",Sky Sport 3 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1092&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport4" tvg-name="Sky Sport 4 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="SPORTS",Sky Sport 4 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1093&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport5" tvg-name="Sky Sport 5 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="SPORTS",Sky Sport 5 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1094&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport6" tvg-name="Sky Sport 6 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="SPORTS",Sky Sport 6 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1095&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport7" tvg-name="Sky Sport 7 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="SPORTS",Sky Sport 7 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1096&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport8" tvg-name="Sky Sport 8 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="SPORTS",Sky Sport 8 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1097&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysport9" tvg-name="Sky Sport 9 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="SPORTS",Sky Sport 9 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1098&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="SPORTS",Sky Sport Arena
+http://civ4kap.udptv.online/panel/stream.php?id=1112&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga1" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 1 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1101&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga10" tvg-name="Sky Sport Bundesliga 10 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-10-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 10 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1110&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga2" tvg-name="Sky Sport Bundesliga 2 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 2 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1102&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga3" tvg-name="Sky Sport Bundesliga 3 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 3 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1103&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga4" tvg-name="Sky Sport Bundesliga 4 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 4 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1104&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga5" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 5 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1105&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga6" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 6 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1106&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga7" tvg-name="Sky Sport Bundesliga 7 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 7 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1107&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga8" tvg-name="Sky Sport Bundesliga 8 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 8 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1108&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga9" tvg-name="Sky Sport Bundesliga 9 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga 9 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1109&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportbundesliga" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="SPORTS",Sky Sport Bundesliga DE
+http://civ4kap.udptv.online/panel/stream.php?id=1100&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="SPORTS",Sky Sport Calcio
+http://civ4kap.udptv.online/panel/stream.php?id=1113&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="SPORTS",Sky Sport F1
+http://civ4kap.udptv.online/panel/stream.php?id=1114&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportf1" tvg-name="Sky Sport F1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="SPORTS",Sky Sport F1 DE
+http://civ4kap.udptv.online/panel/stream.php?id=1115&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="SPORTS",Sky Sport Golf
+http://civ4kap.udptv.online/panel/stream.php?id=1116&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportgolf" tvg-name="Sky Sport Golf DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="SPORTS",Sky Sport Golf DE
+http://civ4kap.udptv.online/panel/stream.php?id=1127&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="SPORTS",Sky Sport Max
+http://civ4kap.udptv.online/panel/stream.php?id=1117&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportmix" tvg-name="Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="SPORTS",Sky Sport Mix DE
+http://civ4kap.udptv.online/panel/stream.php?id=1131&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="SPORTS",Sky Sport Motogp
+http://civ4kap.udptv.online/panel/stream.php?id=1118&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.NBA.it" tvg-name="Sky Sport NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="SPORTS",Sky Sport NBA
+http://civ4kap.udptv.online/panel/stream.php?id=1119&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportnews" tvg-name="Sky Sport News DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="SPORTS",Sky Sport News DE
+http://civ4kap.udptv.online/panel/stream.php?id=1133&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysportpremierleague" tvg-name="Sky Sport Premier League DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="SPORTS",Sky Sport Premier League DE
+http://civ4kap.udptv.online/panel/stream.php?id=1136&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysporttennis" tvg-name="Sky Sport Tennis DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="SPORTS",Sky Sport Tennis DE
+http://civ4kap.udptv.online/panel/stream.php?id=1140&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyde/skysporttopevent" tvg-name="Sky Sport Top Event DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="SPORTS",Sky Sport Top Event DE
+http://civ4kap.udptv.online/panel/stream.php?id=1141&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="SPORTS",Sky Sport Uno
+http://civ4kap.udptv.online/panel/stream.php?id=1120&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="SPORTS",Sky Sports Action UK
+http://civ4kap.udptv.online/panel/stream.php?id=1121&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="SPORTS",Sky Sports Cricket UK
+http://civ4kap.udptv.online/panel/stream.php?id=1122&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="SPORTS",Sky Sports F1 UHD UK
+http://civ4kap.udptv.online/panel/stream.php?id=1123&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://civ4kap.udptv.online/panel/stream.php?id=1124&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="skyuk/skysportsfootball" tvg-name="Sky Sports Football UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="SPORTS",Sky Sports Football UK
+http://civ4kap.udptv.online/panel/stream.php?id=1125&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="SPORTS",Sky Sports Golf UK
+http://civ4kap.udptv.online/panel/stream.php?id=1126&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png" group-title="SPORTS",Sky Sports Main Event UHD UK
+http://civ4kap.udptv.online/panel/stream.php?id=1128&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="SPORTS",Sky Sports Main Event UK
+http://civ4kap.udptv.online/panel/stream.php?id=1129&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="SPORTS",Sky Sports Mix UK
+http://civ4kap.udptv.online/panel/stream.php?id=1130&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="SPORTS",Sky Sports News UK
+http://civ4kap.udptv.online/panel/stream.php?id=1132&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports Plus UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="SPORTS",Sky Sports Plus UK
+http://civ4kap.udptv.online/panel/stream.php?id=1134&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="SPORTS",Sky Sports Premier League UK
+http://civ4kap.udptv.online/panel/stream.php?id=1135&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="SPORTS",Sky Sports Racing UK
+http://civ4kap.udptv.online/panel/stream.php?id=1137&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sports Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="SPORTS",Sky Sports Tennis IT
+http://civ4kap.udptv.online/panel/stream.php?id=1138&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="SPORTS",Sky Sports Tennis UK
+http://civ4kap.udptv.online/panel/stream.php?id=1139&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SPOTV.my" tvg-name="SPO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="SPORTS",SPO TV
+http://civ4kap.udptv.online/panel/stream.php?id=1144&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="SPOTV2.my" tvg-name="SPO2 TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="SPORTS",SPO2 TV 2
+http://civ4kap.udptv.online/panel/stream.php?id=1145&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sport.1.lt" tvg-name="Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Sport_1_HD_%28Lithuanian_TV_channel%29_logo.jpg" group-title="SPORTS",Sport 1
+http://civ4kap.udptv.online/panel/stream.php?id=1146&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/sport1baltic" tvg-name="Sport 1 Baltic" tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561204.png" group-title="SPORTS",Sport 1 Baltic
+http://civ4kap.udptv.online/panel/stream.php?id=1147&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/sport2baltic" tvg-name="Sport 2 Baltic" tvg-logo="https://v4-vno-u120-cdn-02.images.cdn.cgates.lt/static/channels/561209.png" group-title="SPORTS",Sport 2 Baltic
+http://civ4kap.udptv.online/panel/stream.php?id=1148&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="iptv/sport4" tvg-name="Sport 4" tvg-logo="https://v4-vno-u120-cdn-02.images.cdn.cgates.lt/static/channels/561202.png" group-title="SPORTS",Sport 4
+http://civ4kap.udptv.online/panel/stream.php?id=1149&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area/California.Plus.us" tvg-name="Sports Bay Area" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-hz-us.png" group-title="SPORTS",Sports Bay Area
+http://civ4kap.udptv.online/panel/stream.php?id=1150&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-name="Sports Boston" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-hz-us.png" group-title="SPORTS",Sports Boston
+http://civ4kap.udptv.online/panel/stream.php?id=1151&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-name="Sports California" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-hz-us.png?raw=true" group-title="SPORTS",Sports California
+http://civ4kap.udptv.online/panel/stream.php?id=1152&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="Sports Philadelphia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-hz-us.png" group-title="SPORTS",Sports Philadelphia
+http://civ4kap.udptv.online/panel/stream.php?id=1153&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="SPORTS",Sportsnet 360
+http://civ4kap.udptv.online/panel/stream.php?id=1154&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-name="Sportsnet East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="SPORTS",Sportsnet East
+http://civ4kap.udptv.online/panel/stream.php?id=1155&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="SPORTS",Sportsnet One
+http://civ4kap.udptv.online/panel/stream.php?id=1156&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="SPORTS",Sportsnet Ontario
+http://civ4kap.udptv.online/panel/stream.php?id=1157&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-name="Sportsnet Pacific" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" group-title="SPORTS",Sportsnet Pacific
+http://civ4kap.udptv.online/panel/stream.php?id=1158&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="SPORTS",Sportsnet West
+http://civ4kap.udptv.online/panel/stream.php?id=1159&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="SPORTS",Sportsnet World
+http://civ4kap.udptv.online/panel/stream.php?id=1160&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="Tap.Sports.ph" tvg-name="Tap Sports" tvg-logo="https://i.imgur.com/jcNrXsy.png" group-title="SPORTS",Tap Sports
+http://civ4kap.udptv.online/panel/stream.php?id=1169&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/tennischannel" tvg-name="Tennis Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" group-title="SPORTS",Tennis Channel
+http://civ4kap.udptv.online/panel/stream.php?id=1172&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="SPORTS",TNT
+http://civ4kap.udptv.online/panel/stream.php?id=1178&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="SPORTS",TNT Sports 1
+http://civ4kap.udptv.online/panel/stream.php?id=1179&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="SPORTS",TNT Sports 2
+http://civ4kap.udptv.online/panel/stream.php?id=1180&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="SPORTS",TNT Sports 3
+http://civ4kap.udptv.online/panel/stream.php?id=1181&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="SPORTS",TNT Sports 4
+http://civ4kap.udptv.online/panel/stream.php?id=1182&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="SPORTS",TNT Sports 5
+http://civ4kap.udptv.online/panel/stream.php?id=1183&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="udptvus/trutv" tvg-name="Tru TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="SPORTS",Tru TV
+http://civ4kap.udptv.online/panel/stream.php?id=1186&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="SPORTS",TSN1
+http://civ4kap.udptv.online/panel/stream.php?id=1188&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="SPORTS",TSN2
+http://civ4kap.udptv.online/panel/stream.php?id=1189&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title="SPORTS",TSN3
+http://civ4kap.udptv.online/panel/stream.php?id=1190&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="SPORTS",TSN4
+http://civ4kap.udptv.online/panel/stream.php?id=1191&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="SPORTS",TSN5
+http://civ4kap.udptv.online/panel/stream.php?id=1192&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
+#EXTINF:-1 tvg-id="W-Sport.my" tvg-name="W-Sport" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/60962050390d4bcbfd85ab4f303594934b1ae89d/misc/custom/W-%20Sport.png" group-title="SPORTS",W-Sport
+http://civ4kap.udptv.online/panel/stream.php?id=1214&token=4deb59112790a62685c6cde7e181b5c9f1106d7647cd3a7e74f67791d86485c7
