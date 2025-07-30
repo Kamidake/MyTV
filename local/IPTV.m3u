@@ -459,47 +459,47 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-#EXTINF:-1 tvg-id="hitsph" tvg-name="HITS" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HITS
+#EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-name="HITS" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="🇵🇭 CONV-CIG MOVIES",HITS
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/hits_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-#EXTINF:-1 tvg-id="hitsnow" tvg-name="HITS NOW" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HITS NOW
+#EXTINF:-1 tvg-id="HITS.NOW.my" tvg-name="HITS NOW" tvg-logo="https://i.imgur.com/tYfJVjx.png" group-title="🇵🇭 CONV-CIG MOVIES",HITS NOW
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-#EXTINF:-1 tvg-id="hitsmoviesph" tvg-name="HITS MOVIES" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",HITS MOVIES
+#EXTINF:-1 tvg-id="Hits.Movies.ph" tvg-name="HITS MOVIES" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="🇵🇭 CONV-CIG MOVIES",HITS MOVIES
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="thrillph1" tvg-name="THRILL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",THRILL (CON)
+#EXTINF:-1 tvg-id="TLC.ph" tvg-name="THRILL (CON)" tvg-logo="https://i.imgur.com/K134qCk.png" group-title="🇵🇭 CONV-CIG MOVIES",THRILL (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
-#EXTINF:-1 tvg-id="thrillph2" tvg-name="THRILL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",THRILL (CIG)
+#EXTINF:-1 tvg-id="TLC.ph" tvg-name="THRILL (CIG)" tvg-logo="https://i.imgur.com/K134qCk.png" group-title="🇵🇭 CONV-CIG MOVIES",THRILL (CIG)
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-#EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",ROCK ACTION
+#EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/bnrQIgB.png" group-title="🇵🇭 CONV-CIG MOVIES",ROCK ACTION
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-#EXTINF:-1 tvg-id="rckentmnt" tvg-name="ROCK ENTERTAIMENT" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",ROCK ENTERTAIMENT
+#EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK ENTERTAIMENT" tvg-logo="https://i.imgur.com/U8IxzwO.png" group-title="🇵🇭 CONV-CIG MOVIES",ROCK ENTERTAIMENT
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="lotusmacauph1" tvg-name="LOTUS MACAU (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",LOTUS MACAU (CON)
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="LOTUS MACAU (CON)" tvg-logo="https://i.imgur.com/W1u8QdQ.png" group-title="🇵🇭 CONV-CIG MOVIES",LOTUS MACAU (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-#EXTINF:-1 tvg-id="lotusmacauph2" tvg-name="LOTUS MACAU (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 CONV-CIG MOVIES",LOTUS MACAU (CIG)
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="LOTUS MACAU (CIG)" tvg-logo="https://i.imgur.com/W1u8QdQ.png" group-title="🇵🇭 CONV-CIG MOVIES",LOTUS MACAU (CIG)
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
 #EXTINF:-1 tvg-id="xromcigent" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="🇵🇭 CIGNAL ENTERTAINMENT",xROMTv InFo
