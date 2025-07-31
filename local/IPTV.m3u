@@ -286,7 +286,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/onenews_hd1.mpd
 #EXTINF:-1 tvg-id="Truefmtv.ph" tvg-name="TRUE FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="🇵🇭 CIGNAL LOCAL",TRUE FM
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="iptv/dzbb" tvg-name="DZBB SUPER RAYDO" tv-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/500px-DZBB594.svg.png" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
+#EXTINF:-1 tvg-id="iptv/dzbb" tvg-name="DZBB SUPER RAYDO" tv-logo="https://static.wikia.nocookie.net/russel/images/9/95/Super_Radyo_DZBB_Logo_2018.png" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xromcigcpnv" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="🇵🇭 CONV-CIG MOVIES",xROMTv InFo
