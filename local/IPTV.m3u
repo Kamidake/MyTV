@@ -286,7 +286,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/onenews_hd1.mpd
 #EXTINF:-1 tvg-id="Truefmtv.ph" tvg-name="TRUE FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="🇵🇭 CIGNAL LOCAL",TRUE FM
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="iptv/dzbb" tvg-name="DZBB SUPER RAYDO" https://static.wikia.nocookie.net/russel/images/9/95/Super_Radyo_DZBB_Logo_2018.png/revision/latest/scale-to-width-down/300?cb=20180310011541" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
+#EXTINF:-1 tvg-id="iptv/dzbb" tvg-name="DZBB SUPER RAYDO" tv-logo="https://static.wikia.nocookie.net/russel/images/9/95/Super_Radyo_DZBB_Logo_2018.png/revision/latest/scale-to-width-down/300?cb=20180310011541" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xromcigcpnv" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="🇵🇭 CONV-CIG MOVIES",xROMTv InFo
@@ -928,7 +928,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="tlccon" tvg-name="TLC HD" tvg-logo="https://images.seeklogo.com/logo-png/22/1/tlc-logo-png_seeklogo-220530.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",TLC HD
+#EXTINF:-1 tvg-id="tlccon" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tlc-dk.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",TLC HD
 http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
