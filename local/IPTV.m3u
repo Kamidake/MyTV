@@ -404,7 +404,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ccmmoviescha" tvg-name="CCM MOVIES CHANNEL" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",CCM MOVIES CHANNEL
+#EXTINF:-1 tvg-id="ccmmoviescha" tvg-name="CCM MOVIES CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🇵🇭 CONV-CIG MOVIES",CCM MOVIES CHANNEL
 http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -978,7 +978,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="wiontv" tvg-name="WION NEWS" tvg-logo="https://images.seeklogo.com/logo-png/60/1/wion-logo-png_seeklogo-605806.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",WION NEWS
+#EXTINF:-1 tvg-id="wiontv" tvg-name="WION NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",WION NEWS
 http://143.44.136.110:6910/001/2/ch00000090990000001265/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
