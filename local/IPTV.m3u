@@ -798,7 +798,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001107/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-#EXTINF:-1 tvg-id="ArirangTV(src01).kr" tvg-name="ARIRANG (CIG)" tvg-logo="hhttps://i.imgur.com/2NYcYrg.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ARIRANG (CIG)
+#EXTINF:-1 tvg-id="ArirangTV(src01).kr" tvg-name="ARIRANG (CIG)" tvg-logo="https://i.imgur.com/2NYcYrg.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",ARIRANG (CIG)
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
