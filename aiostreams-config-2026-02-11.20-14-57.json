@@ -1,0 +1,2171 @@
+{
+  "uuid": "8c2f1917-1aaf-4536-a5e3-5ca3015cc2a5",
+  "trusted": false,
+  "addonPassword": "Gogo1008%",
+  "addonName": "AIOStreams",
+  "excludedResolutions": [
+    "1440p",
+    "720p",
+    "576p",
+    "480p",
+    "360p",
+    "240p",
+    "144p"
+  ],
+  "includedResolutions": [],
+  "requiredResolutions": [],
+  "preferredResolutions": [
+    "2160p",
+    "1080p",
+    "Unknown"
+  ],
+  "excludedQualities": [
+    "CAM",
+    "SCR",
+    "TS",
+    "TC",
+    "HC HD-Rip"
+  ],
+  "includedQualities": [],
+  "requiredQualities": [],
+  "preferredQualities": [
+    "BluRay REMUX",
+    "BluRay",
+    "WEB-DL",
+    "WEBRip",
+    "HDRip",
+    "DVDRip",
+    "HDTV",
+    "Unknown"
+  ],
+  "excludedLanguages": [],
+  "includedLanguages": [],
+  "requiredLanguages": [],
+  "preferredLanguages": [],
+  "excludedVisualTags": [
+    "3D",
+    "AI"
+  ],
+  "includedVisualTags": [],
+  "requiredVisualTags": [],
+  "preferredVisualTags": [
+    "HDR+DV",
+    "HDR10+",
+    "HDR10",
+    "HDR",
+    "10bit",
+    "IMAX",
+    "SDR",
+    "Unknown",
+    "H-OU",
+    "H-SBS"
+  ],
+  "excludedAudioTags": [],
+  "includedAudioTags": [],
+  "requiredAudioTags": [],
+  "preferredAudioTags": [
+    "Atmos",
+    "DD+",
+    "DD",
+    "DTS-HD MA",
+    "DTS-HD",
+    "DTS-ES",
+    "DTS",
+    "TrueHD",
+    "OPUS",
+    "FLAC",
+    "AAC",
+    "Unknown"
+  ],
+  "excludedAudioChannels": [],
+  "includedAudioChannels": [],
+  "requiredAudioChannels": [],
+  "preferredAudioChannels": [
+    "2.0",
+    "5.1",
+    "6.1",
+    "7.1",
+    "Unknown"
+  ],
+  "excludedStreamTypes": [
+    "p2p"
+  ],
+  "includedStreamTypes": [],
+  "requiredStreamTypes": [],
+  "preferredStreamTypes": [
+    "debrid",
+    "http",
+    "live"
+  ],
+  "excludedEncodes": [],
+  "includedEncodes": [],
+  "requiredEncodes": [],
+  "preferredEncodes": [
+    "AV1",
+    "HEVC",
+    "AVC",
+    "XviD",
+    "DivX",
+    "Unknown"
+  ],
+  "excludedRegexPatterns": [],
+  "includedRegexPatterns": [],
+  "requiredRegexPatterns": [],
+  "preferredRegexPatterns": [],
+  "requiredKeywords": [],
+  "includedKeywords": [],
+  "excludedKeywords": [
+    "PixelServer",
+    "hls",
+    "hls01",
+    "hls02",
+    "hls03",
+    "hls13",
+    "hls12",
+    "hls04",
+    "hls05",
+    "hls06",
+    "hls07",
+    "hls08",
+    "hls09",
+    "hls10",
+    "hls11"
+  ],
+  "preferredKeywords": [],
+  "excludeSeederRange": [
+    0,
+    1000
+  ],
+  "includeSeederRange": [
+    0,
+    1000
+  ],
+  "requiredSeederRange": [
+    0,
+    1000
+  ],
+  "seederRangeTypes": [],
+  "ageRangeTypes": [
+    "usenet"
+  ],
+  "digitalReleaseFilter": {
+    "enabled": false,
+    "tolerance": 1,
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "enableSeadex": true,
+  "excludeSeasonPacks": true,
+  "excludeCached": false,
+  "excludeCachedFromAddons": [],
+  "excludeCachedFromServices": [],
+  "excludeCachedFromStreamTypes": [],
+  "excludeCachedMode": "or",
+  "excludeUncached": true,
+  "excludeUncachedFromAddons": [
+    "564",
+    "ce8",
+    "2bd",
+    "974",
+    "2a8",
+    "4b2",
+    "055"
+  ],
+  "excludeUncachedFromServices": [],
+  "excludeUncachedFromStreamTypes": [],
+  "excludeUncachedMode": "or",
+  "excludedStreamExpressions": [],
+  "requiredStreamExpressions": [],
+  "preferredStreamExpressions": [
+    "cached(merge(service(streams, 'torbox','easynews'), type(streams, 'debrid')))",
+    "merge(cached(service(streams, 'nzbdav', 'altmount')), type(streams, 'http', 'p2p'))",
+    "uncached(type(streams, 'usenet'))",
+    "uncached(type(streams, 'debrid'))"
+  ],
+  "includedStreamExpressions": [],
+  "dynamicAddonFetching": {
+    "enabled": false
+  },
+  "groups": {
+    "enabled": false,
+    "groupings": [],
+    "behaviour": "sequential"
+  },
+  "sortCriteria": {
+    "global": [
+      {
+        "key": "cached",
+        "direction": "desc"
+      },
+      {
+        "key": "resolution",
+        "direction": "desc"
+      },
+      {
+        "key": "quality",
+        "direction": "desc"
+      },
+      {
+        "key": "addon",
+        "direction": "desc"
+      },
+      {
+        "key": "size",
+        "direction": "desc"
+      }
+    ]
+  },
+  "rpdbApiKey": "",
+  "topPosterApiKey": "TP-CRCNYqn5wyeObCLGmfca2rL0MslKqxlg",
+  "posterService": "top-poster",
+  "usePosterRedirectApi": true,
+  "usePosterServiceForMeta": true,
+  "formatter": {
+    "id": "custom",
+    "definition": {
+      "name": "{stream.type::=usenet[\"\"||\"\"]}{stream.type::=Http[\"🌎 \"||\"\"]}{service.cached::istrue[\"🟢 \"||\"\"]}{service.cached::isfalse[\"🔴 \"||\"\"]}⛁‎  {stream.resolution::=2160p[\"4K\"||\"\"]}{stream.resolution::=1440p[\"2K QHD\"||\"\"]}{stream.resolution::=1080p[\"FHD\"||\"\"]}{stream.resolution::=720p[\"720p\"||\"\"]}{stream.resolution::=576p[\"SD\"||\"\"]}{stream.resolution::=480p[\"SD\"||\"\"]}{stream.resolution::=360p[\"LQ\"||\"\"]}{stream.resolution::=240p[\"LQ\"||\"\"]}{stream.resolution::=144p[\"LQ\"||\"\"]}{stream.resolution::exists[\"\"||\"???\"]}\n{stream.quality::exists[\"[{stream.quality::title}]\"||\"\"]}  \n{stream.type::=live[\"\"||\"\"]}{stream.type::=p2p[\"[P2P]        \"||\"\"]}{stream.type::=External[\"[ext link]        \"||\"\"]}\n\n",
+      "description": "○ {addon.name}\n{stream.title::exists[\"🗎  {stream.title}\"||\"\"]}{stream.year::exists[\" ({stream.year})\"||\"\"]} {stream.library::istrue[\"☁︎\"||\"\"]} {stream.filename::~Extended[\"[Extended Cut] \"||\"\"]}{stream.filename::~Theatrical[\"[Theatrical Cut] \"||\"\"]}{stream.filename::~Director[\"[Director's Cut] \"||\"\"]}{stream.filename::~Ultimate[\"[Ultimate Edition] \"||\"\"]}{stream.filename::~Special[\"[Special Edition] \"||\"\"]}{stream.filename::~Alternate[\"[Alternate Edition] \"||\"\"]}{stream.filename::~Redux[\"[Redux] \"||\"\"]}{stream.season::>=0[\" S\"||\"\"]}{stream.season::<=9[\"0\"||\"\"]}{stream.season::>0[\"{stream.season}\"||\"\"]}{stream.episode::>=0[\" · E\"||\"\"]}{stream.episode::<=9[\"0\"||\"\"]}{stream.episode::>0[\"{stream.episode}\"||\"\"]}\n{stream.message::exists[\"ⓘ  {stream.message}\"||\"\"]}\n{stream.encode::exists[\"⧈  {stream.encode} \"||\"\"]}{stream.visualTags::exists[\"☀  {stream.visualTags::join(' · ')} \"||\"\"]}\n{stream.audioTags::exists[\"♫  {stream.audioTags::join(' · ')} \"||\"\"]}{stream.audioChannels::exists[\" ☊  {stream.audioChannels::join(' · ')}\"||\"\"]}\n{stream.size::>0[\"◧  {stream.size::bytes} \"||\"\"]}{stream.folderSize::>0[\"/ {stream.folderSize::bytes}\"||\"\"]}{stream.seeders::>0[\" ⇋ {stream.seeders} 𖧧 \"||\"\"]}{stream.duration::>0[\"· {stream.duration::time} \"||\"\"]}{stream.age::exists[\"· {stream.age} \"||\"\"]}{stream.languageEmojis::exists[\"· {stream.uSmallLanguageCodes::join(' · ')}\"||\"\"]}\n{stream.proxied::istrue[\"☍  \"||\"\"]}\n☲ {stream.releaseGroup::exists[\" {stream.releaseGroup}\"||\"\"]}{stream.indexer::exists[\" · {stream.indexer}\"||\"\"]}\n{stream.regexMatched::exists[\"»  {stream.regexMatched::Title}\"||\"\"]}"
+    }
+  },
+  "proxy": {
+    "enabled": false,
+    "id": "builtin",
+    "url": "Gogo1008%",
+    "credentials": "Gogo1008%",
+    "proxiedAddons": [],
+    "proxiedServices": []
+  },
+  "resultLimits": {},
+  "size": {
+    "global": {
+      "movies": [
+        0,
+        100000000000
+      ],
+      "series": [
+        0,
+        100000000000
+      ]
+    },
+    "resolution": {
+      "2160p": {
+        "movies": [
+          0,
+          100000000000
+        ],
+        "series": [
+          0,
+          100000000000
+        ]
+      },
+      "1080p": {
+        "movies": [
+          0,
+          100000000000
+        ],
+        "series": [
+          0,
+          100000000000
+        ]
+      },
+      "720p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "576p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "480p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "360p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "240p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "144p": {
+        "movies": [
+          1,
+          5000000
+        ],
+        "series": [
+          1,
+          5000000
+        ]
+      },
+      "1440p": {
+        "movies": [
+          0,
+          5000000
+        ],
+        "series": [
+          0,
+          5000000
+        ]
+      },
+      "Unknown": {
+        "movies": [
+          1,
+          100000000000
+        ],
+        "series": [
+          1,
+          100000000000
+        ]
+      }
+    }
+  },
+  "hideErrors": true,
+  "hideErrorsForResources": [],
+  "statistics": {
+    "statsToShow": [
+      "addon",
+      "filter"
+    ]
+  },
+  "tmdbAccessToken": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMzM5ZjIwZGNkYzZlZWJmN2IwM2UwMTE0ZDMwODc1NSIsIm5iZiI6MTc0MDM5Njc0NC42NjUsInN1YiI6IjY3YmM1OGM4NTVlMzk5NGJiZDQ2YjQzZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.v1OcQhja8NYDAXe7svfZZ7TmLlnA8ajwlxCfdd_rCjs",
+  "tmdbApiKey": "d339f20dcdc6eebf7b03e0114d308755",
+  "tvdbApiKey": "4887d55d-513d-441f-b94e-161a7acc23ae",
+  "yearMatching": {
+    "enabled": true,
+    "tolerance": 1,
+    "requestTypes": [],
+    "addons": []
+  },
+  "titleMatching": {
+    "similarityThreshold": 0.96,
+    "enabled": true,
+    "requestTypes": [],
+    "addons": []
+  },
+  "seasonEpisodeMatching": {
+    "enabled": true,
+    "strict": true,
+    "requestTypes": [],
+    "addons": []
+  },
+  "deduplicator": {
+    "enabled": true,
+    "keys": [
+      "filename",
+      "infoHash",
+      "smartDetect"
+    ],
+    "cached": "single_result",
+    "uncached": "per_service",
+    "p2p": "single_result"
+  },
+  "autoPlay": {
+    "method": "matchingFile",
+    "attributes": [
+      "resolution"
+    ]
+  },
+  "areYouStillThere": {
+    "enabled": true
+  },
+  "precacheNextEpisode": true,
+  "precacheSelector": "count(cached(streams)) == 0 ? uncached(streams) : []",
+  "services": [
+    {
+      "id": "torbox",
+      "enabled": true,
+      "credentials": {
+        "apiKey": "212e2952-8e79-473a-8d6e-45689679327a"
+      }
+    },
+    {
+      "id": "realdebrid",
+      "enabled": false,
+      "credentials": {
+        "apiKey": "NMKJM2CCCYNMGPMA2HA4XQJRSOXEPFBBZFBX7RHFX64CG7BFHERA"
+      }
+    },
+    {
+      "id": "alldebrid",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "premiumize",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "debridlink",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "offcloud",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "putio",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "easynews",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "easydebrid",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "pikpak",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "seedr",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "debrider",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "nzbdav",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "altmount",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "stremio_nntp",
+      "enabled": false,
+      "credentials": {}
+    }
+  ],
+  "presets": [
+    {
+      "type": "anime-catalogs",
+      "instanceId": "2c3",
+      "enabled": true,
+      "options": {
+        "name": "Anime Catalogs",
+        "timeout": 7000,
+        "resources": [
+          "catalog"
+        ],
+        "dubbed": false,
+        "cinemeta": true,
+        "search": false,
+        "mal_catalogs": [],
+        "anidb_catalogs": [],
+        "anilist_catalogs": [],
+        "kitsu_catalogs": [],
+        "anisearch_catalogs": [
+          "anisearch_trending"
+        ],
+        "livechart_catalogs": [],
+        "notifymoe_catalogs": []
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "ed5",
+      "enabled": true,
+      "options": {
+        "name": "AIO Metadata",
+        "manifestUrl": "https://aiometadata.viren070.me/stremio/ad134f3d-8996-476c-8b37-74bdb7f9f34e/manifest.json",
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false,
+        "timeout": 15000,
+        "resources": [
+          "meta"
+        ],
+        "mediaTypes": []
+      }
+    },
+    {
+      "type": "opensubtitles",
+      "instanceId": "2fe",
+      "enabled": true,
+      "options": {
+        "name": "OpenSubtitles",
+        "timeout": 10000,
+        "resources": [
+          "subtitles"
+        ]
+      }
+    },
+    {
+      "type": "animetosho",
+      "instanceId": "b22",
+      "enabled": true,
+      "options": {
+        "name": "AnimeTosho",
+        "timeout": 15000,
+        "services": [
+          "torbox"
+        ],
+        "mediaTypes": [
+          "anime",
+          "series"
+        ]
+      }
+    },
+    {
+      "type": "streamfusion",
+      "instanceId": "a05",
+      "enabled": true,
+      "options": {
+        "name": "StreamFusion",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "streamFusionApiKey": "8bc50b7e-035e-44db-b4c9-853be0a3093e",
+        "torrentProviders": [
+          "publicCacheServer",
+          "zilean"
+        ],
+        "catalogs": [],
+        "torrenting": false,
+        "mediaTypes": []
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "fe4",
+      "enabled": true,
+      "options": {
+        "name": "WAStream",
+        "manifestUrl": "http://wastream.striho.top/73280822-18ed-455c-972b-ef962fa720a7/eyJpdiI6ICJmSXIrZ0poOUZqcXl1WC9zYlZTNFlRPT0iLCAiZGF0YSI6ICJKelkzMUNMeWxIZE1kdUN2UGFCVFZnPT0ifQ==/manifest.json",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false
+      }
+    },
+    {
+      "type": "mediafusion",
+      "instanceId": "686",
+      "enabled": true,
+      "options": {
+        "name": "MediaFusion",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "url": "https://mediafusion.stremio.ru",
+        "useCachedResultsOnly": true,
+        "enableWatchlistCatalogs": false,
+        "downloadViaBrowser": false,
+        "contributorStreams": false,
+        "certificationLevelsFilter": [],
+        "nudityFilter": [],
+        "mediaTypes": []
+      }
+    },
+    {
+      "type": "torbox-search",
+      "instanceId": "142",
+      "enabled": true,
+      "options": {
+        "name": "TorBox Search",
+        "timeout": 15000,
+        "sources": [
+          "torrent"
+        ],
+        "mediaTypes": [],
+        "userSearchEngines": false,
+        "onlyShowUserSearchResults": false,
+        "useMultipleInstances": false
+      }
+    },
+    {
+      "type": "comet",
+      "instanceId": "4e2",
+      "enabled": true,
+      "options": {
+        "name": "Comet",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "includeP2P": false,
+        "removeTrash": true,
+        "mediaTypes": [],
+        "url": "https://comet.stremio.ru"
+      }
+    },
+    {
+      "type": "torznab",
+      "instanceId": "f80",
+      "enabled": true,
+      "options": {
+        "name": "Torznab",
+        "torznabUrl": "https://bitmagnetfortheweebs.midnightignite.me/torznab/api",
+        "apiPath": "/api",
+        "timeout": 15000,
+        "services": [
+          "torbox"
+        ],
+        "mediaTypes": [],
+        "searchMode": "auto",
+        "useMultipleInstances": false
+      }
+    },
+    {
+      "type": "torrentio",
+      "instanceId": "1b5",
+      "enabled": false,
+      "options": {
+        "name": "Torrentio",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "url": "https://torrentio.stremio.ru",
+        "providers": [],
+        "useMultipleInstances": false
+      }
+    },
+    {
+      "type": "stremthruTorz",
+      "instanceId": "0d5",
+      "enabled": true,
+      "options": {
+        "name": "StremThru",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "services": [
+          "torbox"
+        ],
+        "includeP2P": false,
+        "useMultipleInstances": false,
+        "mediaTypes": [
+          "movie",
+          "series"
+        ]
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "9f4",
+      "enabled": true,
+      "options": {
+        "name": "KissKH",
+        "manifestUrl": "https://dramayo.stream/81fbc1e6-3c45-407a-afc5-2d8cde6abeac/OGFlMDdjNjUwYWJkMDNmYzY0YmZhM2FhZTA3YTg0NjE6MjE3ZTYwZGI5OTMwNjEwNjdlZGM3YmI4YjE3ODFiM2Y/manifest.json",
+        "timeout": 20000,
+        "resources": [
+          "stream",
+          "catalog"
+        ],
+        "mediaTypes": [],
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false
+      }
+    },
+    {
+      "type": "webstreamr",
+      "instanceId": "075",
+      "enabled": true,
+      "options": {
+        "name": "Webstreamr",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "providers": [
+          "multi"
+        ],
+        "includeExternalUrls": false,
+        "showErrors": false
+      }
+    },
+    {
+      "type": "streaming-catalogs",
+      "instanceId": "e3b",
+      "enabled": true,
+      "options": {
+        "name": "Streaming Catalogs",
+        "timeout": 10000,
+        "resources": [
+          "catalog"
+        ],
+        "catalogs": [
+          "nfx",
+          "hbm",
+          "dnp",
+          "amp",
+          "atp"
+        ]
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "76e",
+      "enabled": true,
+      "options": {
+        "name": "Cinemeta",
+        "manifestUrl": "https://aiolists.elfhosted.com/H4sIAAAAAAAAA9VW23LiOBD9FUrPhnAJJPEbGRLGbIw3wQRMikoJq20r2LJHEtcs_74lXwikJjtTbHZn9wl8-qLWOe12vyKc0N9gg3SENMQTMmsfPMuIzK4Bc-B2PAeGdASbXjDrutSiPWO4NWp92ruqKJCM7hUYTLrDdT-6P7dGw4YZGQ3Tdpr9Tvji2A-RZd-snPokcF6uA2tgCCNq0gk1WqbtVvsdf2t17jf9wXnTtOcrs9Ne333pbcnIoBY16lanvTJHztqy_a2znYR922k4WzK37Md5v3tDla9Tv1pNxia1QkGd8XUybvRCZ3RPx4MVJdHjxq2Hy5k6b1ytrG97Zdt0l5HduvOMcbU767Dm-PbLS_itbm2DyVfbiz3o3g6CYU7EAISgMTPIGzdt140XTB5CQwGc4QgyJAKJCZZ4EC-4qzCXMlBg7n2Hmb_Afu4tOZ7LtuuCEAXfBfoAHgcRvIdv1gnlINoS6WwRhjl6XENIhbQ4AY70p8xewYTErLJsVFoXl96VV6uVGxe4VT6_xG55Nqs1yw1vViNNIE2vip9XWLoBkOcoXlIQ2U9RwImpRBCvxLMATkGcmEpyYIQy_zPK2uc6qmuqoRALOUwIlqAkrlfrrXK1Xq6e27Wa3rzUG9XKVb02yUkWZq420l93GgooIcDulAHpT1MNcYjiJZADxF0IGUcK6OMIBNJfP08gHT2AC0yGm9Ios3-mZp-W_fsy6sjO8U9V9CDtTr2c3N_LoRTL5DCBUGxvEig02WmIRknMJZC2KuJUnVQYVX10SqyG8jfa3NgqvDTYMLf0R-km9L7GQqb8L4GrCYV01KhcVeoXqi9jP0Y6CqRMhH52Fm2ysyH0gjSq4sbRmXKqJCnXOKHXWMCQhz-MSus_-5niz5CGXCxxGPuq8U9n4QNZNRRz6lOGQyNLfOh0YDUxox4IaZwuQpFK9QfS0b6Ad-KUS0WjlQZ5EfJdBKwlx4NFkjVWSkueRMxpgjRExQN8W1CujB4OBey0vYsPjAPaTfM0b45PU-X19_l9N1S_z2_m9I8SXBTwMb9mUYQ8jvhP8vvBp_SI3mOfX8NuPtP_n-T-1Ww48vlFo6Eg137894fDNDtLjeG9mG_rDgeRLqqpOZ_Y-Rar_CQHHKk_i5mkMsxiqGgzqs5Ny9BQgEXeNbrkiwzIrpk-73YaEjGXv3PwgANzi08soQLPQuiq4m9pKNW-mqcEpiwPmJFsWboFLBf87UieWszOtTIWy296ByWzpBGc11pIQz7mG5fjlRdz4rvp1sawSBacMqpYD0i6xqlbCcDcDQYHbBSL-7RYHAbvXKYawoqJDL9Ja96r8ydxtgEBaA0AAA/manifest.json",
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false,
+        "timeout": 15000,
+        "resources": [
+          "catalog"
+        ],
+        "mediaTypes": []
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "861",
+      "enabled": true,
+      "options": {
+        "name": "KDrama",
+        "manifestUrl": "https://kdrama-binge.vercel.app/manifest.json",
+        "timeout": 10000,
+        "resources": [
+          "catalog"
+        ],
+        "mediaTypes": [],
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "83f",
+      "enabled": false,
+      "options": {
+        "name": "MyTrakt",
+        "manifestUrl": "https://mytrakt.elfhosted.com/addon/678f9f11-37a6-48ac-bb15-3fb1d5ed5f0a/manifest.json",
+        "timeout": 10000,
+        "resources": [
+          "catalog"
+        ],
+        "mediaTypes": [],
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false
+      }
+    },
+    {
+      "type": "custom",
+      "instanceId": "396",
+      "enabled": false,
+      "options": {
+        "name": "Subscription Expired",
+        "manifestUrl": "https://statusio.elfhosted.com/%7B%22cache_minutes%22%3A%2245%22%2C%22show_quotes%22%3A%22yes%22%2C%22visibility_mode%22%3A%22show%20for%20every%20stream%20session%2C%20everytime%22%2C%22demo_mode%22%3A%22off%22%2C%22rd_token%22%3A%22%22%2C%22ad_key%22%3A%22%22%2C%22pm_key%22%3A%22%22%2C%22tb_token%22%3A%22eb1ee1bf-68f0-48e8-915a-09f4dcc503d8%22%2C%22dl_key%22%3A%22%22%2C%22dl_auth%22%3A%22Bearer%22%2C%22dl_endpoint%22%3A%22https%3A%2F%2Fdebrid-link.com%2Fapi%2Faccount%2Finfos%22%7D/manifest.json",
+        "timeout": 15000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "libraryAddon": false,
+        "resultPassthrough": false,
+        "forceToTop": false
+      }
+    }
+  ],
+  "catalogModifications": [
+    {
+      "id": "76ee3b0.aiolists_search_movies",
+      "type": "movie",
+      "name": "Search",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "movie",
+      "hideable": false,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "76ee3b0.aiolists_search_series",
+      "type": "series",
+      "name": "Search",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "series",
+      "hideable": false,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct-movie-search",
+      "type": "movie",
+      "name": "Search",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "Asian Movies",
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct-search",
+      "type": "series",
+      "name": "Search",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "Asian Series",
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "76ee3b0.trakt.addon.v3.678f9f11-37a6-48ac-bb15-3fb1d5ed5f0a_watched_movies_movie",
+      "type": "movie",
+      "name": "Recently Watched",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "76ee3b0.trakt.addon.v3.678f9f11-37a6-48ac-bb15-3fb1d5ed5f0a_watched_shows_series",
+      "type": "series",
+      "name": "Revently Watched",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "76ee3b0.trakt.addon.v3.678f9f11-37a6-48ac-bb15-3fb1d5ed5f0a_trending_movies_movie",
+      "type": "movie",
+      "name": "Trending",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "76ee3b0.trakt.addon.v3.678f9f11-37a6-48ac-bb15-3fb1d5ed5f0a_trending_shows_series",
+      "type": "series",
+      "name": "Trending",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Cinemeta"
+    },
+    {
+      "id": "2c3e3b0.anisearch_trending",
+      "type": "anime",
+      "name": "Trending",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "anime",
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Anime Catalogs"
+    },
+    {
+      "id": "861e3b0.K-Dramas",
+      "type": "series",
+      "name": "Latest",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "overrideType": "KDrama",
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KDrama"
+    },
+    {
+      "id": "e3be3b0.nfx",
+      "type": "movie",
+      "name": "Netflix",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.nfx",
+      "type": "series",
+      "name": "Netflix",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.hbm",
+      "type": "movie",
+      "name": "HBO Max",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.hbm",
+      "type": "series",
+      "name": "HBO Max",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.dnp",
+      "type": "movie",
+      "name": "Disney+",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.dnp",
+      "type": "series",
+      "name": "Disney+",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.amp",
+      "type": "movie",
+      "name": "Prime Video",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.amp",
+      "type": "series",
+      "name": "Prime Video",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.atp",
+      "type": "movie",
+      "name": "Apple TV+",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.atp",
+      "type": "series",
+      "name": "Apple TV+",
+      "shuffle": false,
+      "enabled": true,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.netflix-top10-global",
+      "type": "movie",
+      "name": "Netflix Top 10 Movies (Global)",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "e3be3b0.netflix-top10-global",
+      "type": "series",
+      "name": "Netflix Top 10 Shows (Global)",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "Streaming Catalogs"
+    },
+    {
+      "id": "861e3b0.top_kdramas_2025",
+      "type": "series",
+      "name": "MyDramaList - Top KDramas 2025",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KDrama"
+    },
+    {
+      "id": "861e3b0.top_kdramas_alltime",
+      "type": "series",
+      "name": "MyDramaList - Top KDramas All Time",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KDrama"
+    },
+    {
+      "id": "861e3b0.J-Dramas",
+      "type": "series",
+      "name": "Japanese Drama - Latest",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KDrama"
+    },
+    {
+      "id": "9f4e3b0.dramayo-ddl1-search",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-ddl1-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-ddl2-search",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-ddl2-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-onetouchtv-search",
+      "type": "series",
+      "name": "[Dramayo] Direct2 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-onetouchtv-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] Direct2 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-asiaflix-search",
+      "type": "series",
+      "name": "[Dramayo] Direct3 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-asiaflix-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] Direct3 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct4-search",
+      "type": "series",
+      "name": "[Dramayo] Direct4 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct4-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] Direct4 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct5-search",
+      "type": "series",
+      "name": "[Dramayo] Direct5 Search",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-direct5-movie-search",
+      "type": "movie",
+      "name": "[Dramayo] Direct5 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": false,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1",
+      "type": "series",
+      "name": "[Dramayo] D1",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2",
+      "type": "series",
+      "name": "[Dramayo] D2",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3",
+      "type": "series",
+      "name": "[Dramayo] D3",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4",
+      "type": "series",
+      "name": "[Dramayo] D4",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5",
+      "type": "series",
+      "name": "[Dramayo] D5",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1",
+      "type": "series",
+      "name": "[Dramayo] DDL1",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2",
+      "type": "series",
+      "name": "[Dramayo] DDL2",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-korean",
+      "type": "series",
+      "name": "[Dramayo] D1 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-chinese",
+      "type": "series",
+      "name": "[Dramayo] D1 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-japanese",
+      "type": "series",
+      "name": "[Dramayo] D1 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-thai",
+      "type": "series",
+      "name": "[Dramayo] D1 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-hongkong",
+      "type": "series",
+      "name": "[Dramayo] D1 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d1-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] D1 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-korean",
+      "type": "series",
+      "name": "[Dramayo] D2 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-chinese",
+      "type": "series",
+      "name": "[Dramayo] D2 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-japanese",
+      "type": "series",
+      "name": "[Dramayo] D2 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-thai",
+      "type": "series",
+      "name": "[Dramayo] D2 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-hongkong",
+      "type": "series",
+      "name": "[Dramayo] D2 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d2-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] D2 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-korean",
+      "type": "series",
+      "name": "[Dramayo] D3 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-chinese",
+      "type": "series",
+      "name": "[Dramayo] D3 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-japanese",
+      "type": "series",
+      "name": "[Dramayo] D3 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-thai",
+      "type": "series",
+      "name": "[Dramayo] D3 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-hongkong",
+      "type": "series",
+      "name": "[Dramayo] D3 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d3-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] D3 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-korean",
+      "type": "series",
+      "name": "[Dramayo] D4 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-chinese",
+      "type": "series",
+      "name": "[Dramayo] D4 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-japanese",
+      "type": "series",
+      "name": "[Dramayo] D4 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-thai",
+      "type": "series",
+      "name": "[Dramayo] D4 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-hongkong",
+      "type": "series",
+      "name": "[Dramayo] D4 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d4-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] D4 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-korean",
+      "type": "series",
+      "name": "[Dramayo] D5 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-chinese",
+      "type": "series",
+      "name": "[Dramayo] D5 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-japanese",
+      "type": "series",
+      "name": "[Dramayo] D5 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-thai",
+      "type": "series",
+      "name": "[Dramayo] D5 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-hongkong",
+      "type": "series",
+      "name": "[Dramayo] D5 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-d5-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] D5 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-korean",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-chinese",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-japanese",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-thai",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-hongkong",
+      "type": "series",
+      "name": "[Dramayo] DDL1 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl1-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL1 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-korean",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Korean Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-chinese",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Chinese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-japanese",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Japanese Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-thai",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Thai Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-hongkong",
+      "type": "series",
+      "name": "[Dramayo] DDL2 Hong Kong Dramas",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-korean-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Korean Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-chinese-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Chinese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-japanese-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Japanese Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-thai-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Thai Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    },
+    {
+      "id": "9f4e3b0.dramayo-source-ddl2-hongkong-movies",
+      "type": "movie",
+      "name": "[Dramayo] DDL2 Hong Kong Movies",
+      "shuffle": false,
+      "enabled": false,
+      "usePosterService": true,
+      "hideable": true,
+      "searchable": false,
+      "addonName": "KissKH"
+    }
+  ],
+  "mergedCatalogs": [],
+  "externalDownloads": false,
+  "cacheAndPlay": {
+    "streamTypes": [
+      "usenet"
+    ]
+  }
+}
