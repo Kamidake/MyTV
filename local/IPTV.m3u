@@ -320,7 +320,95 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548694&ext
 
 
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/62f4ebe8e19343c5d42fd69d9c32496f-thumbnail.jpg" group-title="NBA",Charlotte Hornets vs Indiana Pacers (FEB 27 @ 08:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e6f72fc984a1ff4ceb77b1e61a96863d-thumbnail.jpg" group-title="NBA",Miami Heat vs Philadelphia 76ers (FEB 27 @ 08:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/21d7499d91f528a5dfcd77a1e9a7fdb8-thumbnail.jpg" group-title="NBA",Washington Wizards vs Atlanta Hawks (FEB 27 @ 08:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0ff3de1d29f343400f50986498cc8b1e-thumbnail.jpg" group-title="NBA",San Antonio Spurs vs Brooklyn Nets (FEB 27 @ 08:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/47257eaf9b58d1c8c220045d6ec01846-thumbnail.jpg" group-title="NBA",Houston Rockets vs Orlando Magic (FEB 27 @ 08:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/logos/football.png" group-title="Soccer",Deportes Tolima vs Deportivo Tachira (FEB 27 @ 08:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/542df6d9a611195b9b58b38dd3ea1f6f-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Chicago Bulls (FEB 27 @ 09:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/946c174ff35775f82b3b875a91d73156-thumbnail.jpg" group-title="Soccer",Independiente Del Valle vs Inter Miami (FEB 27 @ 09:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.serverbandel.sbs/mls.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/61ba1c54e5060c8709ca84e808f74b72-thumbnail.jpg" group-title="NBA",Sacramento Kings vs Dallas Mavericks (FEB 27 @ 09:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0ec176fb9d06522c4905c0ff5b8c9f26-thumbnail.jpg" group-title="NBA",Los Angeles Lakers vs Phoenix Suns (FEB 27 @ 10:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.xn--1000-ugoa0hsb9a0hb.com/nba8.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7021dad2298faf21d44ca52b0a23fe81-thumbnail.jpg" group-title="NBA",New Orleans Pelicans vs Utah Jazz (FEB 27 @ 10:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c8eb91ddf15e74404af31d100efcf4e9-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Los Angeles Clippers (FEB 27 @ 11:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/da3cc75452febffdc891d2d3ea325b2d-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons (FEB 28 @ 08:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f86728c99d6d918d3582ecbfceb73fb0-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics (FEB 28 @ 08:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1885c20a5e8e113fff06905cdfa1709b-thumbnail.jpg" group-title="NBA",New York Knicks vs Milwaukee Bucks (FEB 28 @ 09:00 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
 
 
 
