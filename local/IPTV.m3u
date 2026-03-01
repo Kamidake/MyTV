@@ -372,6 +372,46 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/nba8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
 
+#EXTINF:-1 tvg-id="UFCEVENT" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" group-title="Fighting",UFC Event
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.833577.xyz/ataide.m3u8
+
+#EXTINF:-1 tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/WWE.jpg" group-title="Fighting",WWE Event
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PPV.jpg" group-title="Fighting",PPV 01
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PPV.jpg" group-title="Fighting",PPV 02
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv2.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PPV.jpg" group-title="Fighting",PPV 03
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv3.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PPV.jpg" group-title="Fighting",PPV 04
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv4.m3u8
+
+
+
+
+
 
 
 
