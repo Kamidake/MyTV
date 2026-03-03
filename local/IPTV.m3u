@@ -6,11 +6,9 @@
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/KapamilyaChannel.png" ,Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/KapamilyaChannel.png" group-title="Lennon",Kapamilya Channel HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBO.png" group-title="Lennon", HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -241,9 +239,6 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/CinemaOne.png" group-title="Lennon", Cinema One
 http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/KapamilyaChannel.png" group-title="Lennon",Kapamilya Channel HD
-http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TAPMovies.png" group-title="Lennon", Tap Movies
 http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
