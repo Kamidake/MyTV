@@ -271,34 +271,23 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TFC.png",TFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/Cinemo.png",Cinemo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/GMAPinoy.png",GMA Pinoy TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/CinemaOne.png", Cinema One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/GMAPinoy.jpg",GMA Pinoy TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/GMA.png" group-title="Lennon", GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
@@ -311,7 +300,6 @@ http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBATV.png" group-title="Lennon",NBA TV Philippines
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548694&extension=ts
-
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 01
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
