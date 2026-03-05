@@ -267,35 +267,6 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/KBSWorld.jpg" group-title="Lennon", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/ANC.png",ANC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
-https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/DZMM.png",DZMM TeleRadyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TFC.png",TFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/Cinemo.png",Cinemo! Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-
-#EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/CinemaOne.png", Cinema One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/GMA.png" group-title="Lennon", GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
