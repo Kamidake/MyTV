@@ -23,7 +23,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBO.png" group-title="Cignal Play Channel",HBO
 https://hls.iill.top/api/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBO.png" group-title="Cignal Play Channel",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBOFamily.jpg" group-title="Cignal Play Channel",HBO Family
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBOHits.png" group-title="Cignal Play Channel",HBO Hits
 https://hls.iill.top/api/HBO-Hits/index.m3u8
