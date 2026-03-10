@@ -354,12 +354,6 @@ https://602.lifesharper.com/nba7.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba6.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TennisChannel.jpg" tvg-name="USA: TENNIS CHANNEL" group-title="SPORTS",USA: TENNIS CHANNEL
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815080
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TennisChannel.jpg" tvg-name="USA: TENNIS CHANNEL PLUS" group-title="SPORTS",USA: TENNIS CHANNEL PLUS
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815081
-
 #EXTINF:-1 tvg-id="UFCEVENT" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" group-title="Fighting",UFC Event
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
