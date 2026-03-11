@@ -292,137 +292,137 @@ http://supersonictv.live:8080/611366/682256/22125
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548694&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 02" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba2.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 03" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba3.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 04" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba4.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 05" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba5.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 06" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.serverbandel.sbs/nba6.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 07" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.e-kinerjapjlppsblhs4.fun/nba7.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 08" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.e-kinerjapjlppsblhs4.fun/nba8.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 09" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.lifesharper.com/nba9.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 10" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba7.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 11" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.lifesharper.com/nba7.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 11" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba6.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 12" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba11.m3u8
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 01" group-title="NBALive",NBA01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 02" group-title="NBALive",NBA02
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 03" group-title="NBA Live",NBA03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 04" group-title="NBALive",NBA04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 05" group-title="NBALive",NBA05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822066
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 06" group-title="NBALive",NBA06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822067
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 07" group-title="NBALive",NBA07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822068
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 08" group-title="NBALive",NBA08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822069
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 09" group-title="NBALive",NBA09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822070
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 10" group-title="NBALive",NBA10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822071
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 11" group-title="NBA Live",NBA11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822072
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 12" group-title="NBALive",NBA12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822073
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 13" group-title="NBALive",NBA13
-‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822074
 
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 14" group-title="NBALive",NBA14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 ExoPlayer/2.18.1
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822075
 
 #EXTINF:-1 tvg-id="UFCEVENT" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" group-title="Fighting",UFC Event
