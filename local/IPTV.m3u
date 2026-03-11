@@ -369,6 +369,48 @@ https://daffodil.lifesharper.com/nba6.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba11.m3u8
 
+‎#EXTINF:-1 tvg-id="NBA (Live) 1" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 1
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 2" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 2
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 3" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 3
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 4" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 4
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 5" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 5
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822066
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 6" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 6
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822067
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 7" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 7
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822068
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 8" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 8
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822069
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 9" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 9
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822070
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 10" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 10
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822071
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 11" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 11
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822072
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 12" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 12
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822073
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 13" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 13
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822074
+
+‎#EXTINF:-1 tvg-id="NBA (Live) 14" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 14
+‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822075
+
 #EXTINF:-1 tvg-id="UFCEVENT" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" group-title="Fighting",UFC Event
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
