@@ -363,65 +363,65 @@ https://602.lifesharper.com/nba7.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba6.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 12" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 12
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 12" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba11.m3u8
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 01" group-title="NBA Live",NBA 01
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 01" group-title="NBALive",NBA01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 02" group-title="NBA Live",NBA 02
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 02" group-title="NBALive",NBA02
 ‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 03" group-title="NBA Live",NBA 03
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 03" group-title="NBA Live",NBA03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 04" group-title="NBA Live",NBA 04
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 04" group-title="NBALive",NBA04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 05" group-title="NBA Live",NBA 05
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 05" group-title="NBALive",NBA05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822066
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 06" group-title="NBA Live",NBA 06
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 06" group-title="NBALive",NBA06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822067
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 07" group-title="NBA Live",NBA 07
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 07" group-title="NBALive",NBA07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822068
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 08" group-title="NBA Live",NBA 08
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 08" group-title="NBALive",NBA08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822069
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 09" group-title="NBA Live",NBA 09
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 09" group-title="NBALive",NBA09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822070
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 10" group-title="NBA Live",NBA 10
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 10" group-title="NBALive",NBA10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822071
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 11" group-title="NBA Live",NBA 11
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 11" group-title="NBA Live",NBA11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822072
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 12" group-title="NBA Live",NBA 12
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 12" group-title="NBALive",NBA12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822073
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 13" group-title="NBA Live",NBA 13
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 13" group-title="NBALive",NBA13
 ‎#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822074
 
-#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 14" group-title="NBA Live",NBA 14
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA 14" group-title="NBALive",NBA14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822075
 
