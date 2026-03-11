@@ -369,7 +369,7 @@ https://daffodil.lifesharper.com/nba6.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba11.m3u8
 
-‎#EXTINF:-1 tvg-id="NBA.Live" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 1
+‎#EXTINF:-1 tvg-id="NBA.Live" tvg-name="NBALive 01" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" group-title="NBA",NBALive 01
 ‎http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
 
 ‎#EXTINF:-1 tvg-id="NBA.Live" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" tvg-name="NBA (Live)" group-title="NBA Live",NBA (Live) 2
