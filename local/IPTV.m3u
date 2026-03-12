@@ -292,4 +292,6 @@ http://supersonictv.live:8080/611366/682256/22125
 
 **********Sports**********
 
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Orlando Magic (MAR 12 @ 07:30 AM PHT)" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Orlando Magic (MAR 12 @ 07:30 AM PHT)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+https://daffodil.lifesharper.com/nba.m3u8
