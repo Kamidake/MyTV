@@ -282,8 +282,9 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/KBSWorld.jpg" group-title="Lennon", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+**********CignalPlay**********
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PBARush.png" group-title="Lennon", PBA Rush
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PBARush.png" group-title="Lennon", PBA Rush
 http://trilo.tv/live/Eden1/123456789/368075.m3u8
 
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NatGeo.jpg",National Geographic Channel
@@ -292,8 +293,10 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NatGeoWild.jpg",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
+**********Sports**********
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBATV.png" group-title="Lennon",NBA TV Philippines
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548694&extension=ts
+http://trilo.tv/live/Eden1/123456789/368022.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
