@@ -304,7 +304,6 @@ http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 04" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Live 05" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA",NBA Live 05
