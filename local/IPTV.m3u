@@ -285,6 +285,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 **********CignalPlay**********
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PBARush.png" group-title="Lennon", PBA Rush
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 http://trilo.tv/live/Eden1/123456789/368075.m3u8
 
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NatGeo.jpg",National Geographic Channel
