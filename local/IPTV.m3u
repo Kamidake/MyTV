@@ -293,5 +293,7 @@ http://supersonictv.live:8080/611366/682256/22125
 **********Sports**********
 
 #EXTINF:-1 tvg-id="MyNBA" tvg-name="NBA" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumnail.jpg" group-title="NBA",NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.lifesharper.com/nba.m3u8
