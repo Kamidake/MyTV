@@ -1,57 +1,35 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="NHL 1" tvg-logo="" group-title="Rox USA Sports",NHL 1
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94266
-#EXTINF:-1 tvg-id="" tvg-name="NHL 2" tvg-logo="" group-title="Rox USA Sports",NHL 2
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/115635
-#EXTINF:-1 tvg-id="" tvg-name="NHL 3" tvg-logo="" group-title="Rox USA Sports",NHL 3
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94268
-#EXTINF:-1 tvg-id="" tvg-name="NHL 4" tvg-logo="" group-title="Rox USA Sports",NHL 4
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94269
-#EXTINF:-1 tvg-id="" tvg-name="NHL 5" tvg-logo="" group-title="Rox USA Sports",NHL 5
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94270
-#EXTINF:-1 tvg-id="" tvg-name="NHL 6" tvg-logo="" group-title="Rox USA Sports",NHL 6
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94271
-#EXTINF:-1 tvg-id="" tvg-name="NHL 7" tvg-logo="" group-title="Rox USA Sports",NHL 7
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94272
-#EXTINF:-1 tvg-id="" tvg-name="NHL 8" tvg-logo="" group-title="Rox USA Sports",NHL 8
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94273
-#EXTINF:-1 tvg-id="" tvg-name="NHL 9" tvg-logo="" group-title="Rox USA Sports",NHL 9
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94274
-#EXTINF:-1 tvg-id="" tvg-name="NHL 10" tvg-logo="" group-title="Rox USA Sports",NHL 10
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94275
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11" tvg-logo="" group-title="Rox USA Sports",NHL 11
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94276
-#EXTINF:-1 tvg-id="" tvg-name="MLB 1" tvg-logo="" group-title="Rox USA Sports",MLB 1
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94277
-#EXTINF:-1 tvg-id="" tvg-name="MLB 2" tvg-logo="" group-title="Rox USA Sports",MLB 2
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94278
-#EXTINF:-1 tvg-id="" tvg-name="MLB 3" tvg-logo="" group-title="Rox USA Sports",MLB 3
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94279
-#EXTINF:-1 tvg-id="" tvg-name="MLB 4" tvg-logo="" group-title="Rox USA Sports",MLB 4
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94280
-#EXTINF:-1 tvg-id="" tvg-name="MLB 5" tvg-logo="" group-title="Rox USA Sports",MLB 5
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94281
-#EXTINF:-1 tvg-id="" tvg-name="MLB 6" tvg-logo="" group-title="Rox USA Sports",MLB 6
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94282
-#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="" group-title="Rox USA Sports",MLB
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94283
-#EXTINF:-1 tvg-id="" tvg-name="MLB 9" tvg-logo="" group-title="Rox USA Sports",MLB 9
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94284
-#EXTINF:-1 tvg-id="" tvg-name="MLB 10" tvg-logo="" group-title="Rox USA Sports",MLB 10
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94285
-#EXTINF:-1 tvg-id="" tvg-name="MLB 11" tvg-logo="" group-title="Rox USA Sports",MLB 11
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94286
-#EXTINF:-1 tvg-id="" tvg-name="NBA 1" tvg-logo="" group-title="Rox USA Sports",NBA 1
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94287
-#EXTINF:-1 tvg-id="" tvg-name="NBA 2" tvg-logo="" group-title="Rox USA Sports",NBA 2
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94288
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3" tvg-logo="" group-title="Rox USA Sports",NBA 3
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94289
-#EXTINF:-1 tvg-id="" tvg-name="NBA 4" tvg-logo="" group-title="Rox USA Sports",NBA 4
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94290
-#EXTINF:-1 tvg-id="" tvg-name="NBA 5" tvg-logo="" group-title="Rox USA Sports",NBA 5
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94291
-#EXTINF:-1 tvg-id="" tvg-name="NBA 6" tvg-logo="" group-title="Rox USA Sports",NBA 6
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94292
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Dallas Mavericks vs Orlando Magic
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.serverbandel.sbs/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Utah Jazz vs Washington Wizards
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.serverbandel.sbs/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Brooklyn Nets vs Miami Heat
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.serverbandel.sbs/nba3.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Golden State Warriors vs Houston Rockets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.833577.xyz/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Detroit Pistons vs San Antonio Spurs
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Chicago Bulls vs Phoenix Suns
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Los Angeles Lakers vs Denver Nuggets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.serverbandel.sbs/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,New Orleans Pelicans vs Sacramento Kings
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
 
