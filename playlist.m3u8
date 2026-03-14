@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:501
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2005199_501.ts
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2009199_502.ts
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2013199_503.ts
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2017199_504.ts
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2021199_505.ts
+#EXTINF:4,
+https://startvphilippines.sanmateocable.workers.dev/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Fpaid1425%2Fl_2416754_2025199_506.ts
