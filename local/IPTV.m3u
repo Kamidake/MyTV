@@ -300,25 +300,12 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:-1 tvg-id="tfc" tvg-name="TFC" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/TFC.png" ,TFC
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/72488
+http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/171199
 
 **********Sports**********
 
 #EXTINF:-1 tvg-id="pba" tvg-name="PBA Rush" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/PBARush.png" ,PBA Rush
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/88277
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/240df2a4267f9a6f6e5aa92538879bb0-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Detroit Pistons (07:30 ~ 10:18)
-https://ppv.passwdword.xyz/stream?uri=nba/2026-03-20/gs-det
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/WWE.jpg" ,WWE 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/94311
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/WWE.jpg" ,WWE 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/84633
+http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/171188
 
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" ,UFC 1
 http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/75158
