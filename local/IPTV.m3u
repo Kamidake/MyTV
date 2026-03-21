@@ -290,9 +290,6 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="spongebob" tvg-name="SpongeBob SquarePants 24/7" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/spongebob.jpg" group-title="24/7",SpongeBob SquarePants 24/7
 http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/115635
 
-#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/History.jpg" ,History
-http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/78803
-
 #EXTINF:-1 group-title="Lennon" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NatGeo.jpg",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
