@@ -386,7 +386,7 @@ https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1774644117&token=a01f08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1774644117&token=bdc431aa5eb21084a2f8947cc186e614b407393941a886556607f63ef53706a8
-#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 10
+#EXTINF:-1 tvg-id="nba1" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBA%20Live.jpg" group-title="NBA Live",NBA 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn12.tkfiles.cfd/live/cdn12/playlist.m3u8?expires=1774644122&token=307fd66c71f325b345b702cfc1187cb63151b2ea12dfa48e3919e6ca66d85e4d
