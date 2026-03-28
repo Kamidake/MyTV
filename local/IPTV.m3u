@@ -349,6 +349,59 @@ http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/158888
 #EXTINF:-1 tvg-id="nba" tvg-name="NBA Live" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/NBALive.jpg" group-title="NBA",NBA 15
 http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/158889
 
+
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1774644107&token=4c1ddbeb1744573a39247d4a12e2f8115837864ea6c4a8c85b4e660e17874f5e
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1774659434&token=2a0449cc0d4cd5849e297125fe885e754708288ba58c0d594a9428fecaa63780
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn3.tkfiles.cfd/live/cdn3/playlist.m3u8?expires=1774654814&token=6f12c21e5ca4e4692b09308d03e6d032ef66b472cdc17a86d1c5bd716883ac38
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn4.tkfiles.cfd/live/cdn4/playlist.m3u8?expires=1774644112&token=323d9f8837f311a2625821e8eaf6a37a3b232f1e2332bfba74ae6d01287a0204
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.tkfiles.cfd/live/cdn5/playlist.m3u8?expires=1774644112&token=6ad7b2da953b497e4210e1e493f71aa07c53b6cf6551b8063a2c800eb544dad6
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn6.tkfiles.cfd/live/cdn6/playlist.m3u8?expires=1774644114&token=b1d612fe946f3f0e688b393a2f0d22cb168af509efc223019c5d8eaa88153fef
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn7.tkfiles.cfd/live/cdn7/playlist.m3u8?expires=1774644115&token=a0861209812f6fd916b76371e53e7ad2c26fa6ad266149481a8913a327dd8d99
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1774644117&token=a01f08438b55ebee90ebe560ab064c7a3afd07fa5d4557f04f99b9cf0713fcd1
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1774644117&token=bdc431aa5eb21084a2f8947cc186e614b407393941a886556607f63ef53706a8
+#EXTINF:-1 tvg-id="nba1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live",NBA 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn12.tkfiles.cfd/live/cdn12/playlist.m3u8?expires=1774644122&token=307fd66c71f325b345b702cfc1187cb63151b2ea12dfa48e3919e6ca66d85e4d
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/UFC.jpg" ,UFC 1
 http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/75158
 
