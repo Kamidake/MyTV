@@ -15,7 +15,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="Cignal Play Channel",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://animanga.fandom.com/wiki/Ani-One_Asia?file=Ani-One_logo.png" group-title="SamsungTV", Ani One 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/logo/Ani-One_logo.png" group-title="SamsungTV", Ani One 
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kamidake/MyTV/refs/heads/main/local/HBO.png" group-title="Lennon", HBO
