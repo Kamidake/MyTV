@@ -1,0 +1,114 @@
+#EXTM3U
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150178&id=0042500134&mediaId=g0042500134cle1000444tor
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 1:00AM] CLE @ TOR - Mobile View
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150178&id=0042500134&mediaId=g0042500134cle1000444tor
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150178&id=0042500134&mediaId=g0042500134cle1000444tor
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150180&id=0042500134&mediaId=g0042500134cle1000445tor
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 1:00AM] CLE @ TOR - ESPN
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150180&id=0042500134&mediaId=g0042500134cle1000445tor
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150180&id=0042500134&mediaId=g0042500134cle1000445tor
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150287&id=0042500134&mediaId=g0042500134cle1000475tor
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 1:00AM] CLE @ TOR - Raptors
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150287&id=0042500134&mediaId=g0042500134cle1000475tor
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150287&id=0042500134&mediaId=g0042500134cle1000475tor
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150286&id=0042500134&mediaId=g0042500134cle1000814tor
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 1:00AM] CLE @ TOR - Raptors (Studio)
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150286&id=0042500134&mediaId=g0042500134cle1000814tor
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150286&id=0042500134&mediaId=g0042500134cle1000814tor
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 1:00AM] CLE @ TOR - ESPN (Studio)
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150197&id=0042500154&mediaId=g0042500154sas1000783por
+#EXTINF:-1 tvg-id="0042500154" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/sas-por/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 3:30AM] SAS @ POR - ESPN (Studio)
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150197&id=0042500154&mediaId=g0042500154sas1000783por
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150197&id=0042500154&mediaId=g0042500154sas1000783por
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150196&id=0042500154&mediaId=g0042500154sas1000445por
+#EXTINF:-1 tvg-id="0042500154" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/sas-por/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 3:30AM] SAS @ POR - ESPN
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150196&id=0042500154&mediaId=g0042500154sas1000445por
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150196&id=0042500154&mediaId=g0042500154sas1000445por
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150198&id=0042500154&mediaId=g0042500154sas1000444por
+#EXTINF:-1 tvg-id="0042500154" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/sas-por/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 3:30AM] SAS @ POR - Mobile View
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150198&id=0042500154&mediaId=g0042500154sas1000444por
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150198&id=0042500154&mediaId=g0042500154sas1000444por
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150326&id=0042500114&mediaId=g0042500114bos1000444phi
+#EXTINF:-1 tvg-id="0042500114" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/bos-phi/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 7:00AM] BOS @ PHI - Mobile View
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150326&id=0042500114&mediaId=g0042500114bos1000444phi
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150326&id=0042500114&mediaId=g0042500114bos1000444phi
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150348&id=0042500114&mediaId=g0042500114bos1001457phi
+#EXTINF:-1 tvg-id="0042500114" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/bos-phi/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 7:00AM] BOS @ PHI - NBC
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150348&id=0042500114&mediaId=g0042500114bos1001457phi
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150348&id=0042500114&mediaId=g0042500114bos1001457phi
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150345&id=0042500114&mediaId=g0042500114bos1001458phi
+#EXTINF:-1 tvg-id="0042500114" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/bos-phi/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 7:00AM] BOS @ PHI - NBC (Studio)
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150345&id=0042500114&mediaId=g0042500114bos1001458phi
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150345&id=0042500114&mediaId=g0042500114bos1001458phi
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150240&id=0042500174&mediaId=g0042500174lal1000444hou
+#EXTINF:-1 tvg-id="0042500174" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/lal-hou/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 9:30AM] LAL @ HOU - Mobile View
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150240&id=0042500174&mediaId=g0042500174lal1000444hou
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150240&id=0042500174&mediaId=g0042500174lal1000444hou
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150242&id=0042500174&mediaId=g0042500174lal1001458hou
+#EXTINF:-1 tvg-id="0042500174" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/lal-hou/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 9:30AM] LAL @ HOU - NBC (Studio)
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150242&id=0042500174&mediaId=g0042500174lal1001458hou
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150242&id=0042500174&mediaId=g0042500174lal1001458hou
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150241&id=0042500174&mediaId=g0042500174lal1001457hou
+#EXTINF:-1 tvg-id="0042500174" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/lal-hou/1920x1080.png" group-title="NBA LEAGUE PASS",[04-27 9:30AM] LAL @ HOU - NBC
+#EXTATTRFROMURL:https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150241&id=0042500174&mediaId=g0042500174lal1001457hou
+https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150241&id=0042500174&mediaId=g0042500174lal1001457hou
+
