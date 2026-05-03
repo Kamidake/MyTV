@@ -1,35 +1,51 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Dallas Mavericks vs Orlando Magic
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.serverbandel.sbs/nba.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Utah Jazz vs Washington Wizards
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.serverbandel.sbs/nba2.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Brooklyn Nets vs Miami Heat
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.serverbandel.sbs/nba3.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Golden State Warriors vs Houston Rockets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.833577.xyz/nba4.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Detroit Pistons vs San Antonio Spurs
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Chicago Bulls vs Phoenix Suns
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,Los Angeles Lakers vs Denver Nuggets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.serverbandel.sbs/nba4.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Basketball-2.png" ,New Orleans Pelicans vs Sacramento Kings
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
-
+#EXTM3U
+#EXTINF:-1 group-title="UFC" tvg-logo="",UFC Fight Night: Della Maddalena v. Prates (MAY 01 @ 01:00 AM PST)
+https://sh1.shfiles.cfd/live/ufc/stream.m3u8
+#EXTINF:-1 group-title="Boxing" tvg-logo="",Naoya Inoue vs Junto Nakatani (MAY 01 @ 02:00 AM PST)
+https://sh5.shfiles.cfd/live/nakatani/stream.m3u8
+#EXTINF:-1 group-title="WWE" tvg-logo="",WWE: Friday Night Smackdown (MAY 01 @ 05:00 PM PST)
+https://sh5.shfiles.cfd/live/smackdown/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Baltimore Orioles vs New York Yankees (MAY 01 @ 10:35 PM PST)
+https://mb1.shfiles.cfd/live/1/stream.m3u8
+#EXTINF:-1 group-title="Boxing" tvg-logo="",Conah Walker vs. Sam Eggington (MAY 02 @ 09:45 AM PST)
+https://sh5.shfiles.cfd/live/walker/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Toronto Blue Jays vs Minnesota Twins (MAY 02 @ 11:10 AM PST)
+https://mb1.shfiles.cfd/live/2/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Arizona Diamondbacks vs Chicago Cubs (MAY 02 @ 11:20 AM PST)
+https://mb1.shfiles.cfd/live/3/stream.m3u8
+#EXTINF:-1 group-title="MotorSports" tvg-logo="https://api.ppv.st/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg",Miami Grand Prix - Qualifying (MAY 02 @ 01:00 PM PST)
+https://sh4.shfiles.cfd/live/miami/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Milwaukee Brewers vs Washington Nationals (MAY 02 @ 01:05 PM PST)
+https://mb2.shfiles.cfd/live/4/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Cleveland Guardians vs Athletics (MAY 02 @ 01:05 PM PST)
+https://mb2.shfiles.cfd/live/5/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Cincinnati Reds vs Pittsburgh Pirates (MAY 02 @ 01:05 PM PST)
+https://mb2.shfiles.cfd/live/6/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Philadelphia Phillies vs Miami Marlins (MAY 02 @ 01:10 PM PST)
+https://mb3.shfiles.cfd/live/7/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Houston Astros vs Boston Red Sox (MAY 02 @ 01:10 PM PST)
+https://mb3.shfiles.cfd/live/8/stream.m3u8
+#EXTINF:-1 group-title="Boxing" tvg-logo="https://api.ppv.st/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg",David Benavidez vs Zurdo Ramirez (MAY 02 @ 02:30 PM PST)
+https://sh4.shfiles.cfd/live/ramirez/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",San Francisco Giants vs Tampa Bay Rays (MAY 02 @ 03:10 PM PST)
+https://mb3.shfiles.cfd/live/9/stream.m3u8
+#EXTINF:-1 group-title="WNBA" tvg-logo="",Nigeria National Team vs Indiana Fever (MAY 02 @ 04:00 PM PST)
+https://sh5.shfiles.cfd/live/wnba/stream.m3u8
+#EXTINF:-1 group-title="MMA" tvg-logo="https://api.ppv.st/assets/thumb/6b66dfe0a86400974cb045e528bd32ae-thumbnail.jpg",PFL Sioux Falls: Storley vs Zendeli (MAY 02 @ 04:00 PM PST)
+https://sh5.shfiles.cfd/live/pfl/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Texas Rangers VS Detroit Tigers (MAY 02 @ 04:15 PM PST)
+https://mb4.shfiles.cfd/live/10/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Los Angeles Dodgers vs St. Louis Cardinals (MAY 02 @ 04:15 PM PST)
+https://mb4.shfiles.cfd/live/11/stream.m3u8
+#EXTINF:-1 group-title="NBA" tvg-logo="",Philadelphia 76ers vs Boston Celtics (MAY 02 @ 04:30 PM PST)
+https://sh4.shfiles.cfd/live/boston/stream.m3u8
+#EXTINF:-1 group-title="NHL" tvg-logo="",Philadelphia Flyers vs Carolina Hurricanes (MAY 02 @ 05:00 PM PST)
+https://sh4.shfiles.cfd/live/abc/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="",Atlanta Braves vs Colorado Rockies (MAY 02 @ 05:10 PM PST)
+https://mb4.shfiles.cfd/live/12/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.st/assets/thumb/ee9042b7f5177b480ea09497488d8f78-thumbnail.jpg",Chicago White Sox vs San Diego Padres (MAY 02 @ 05:40 PM PST)
+https://mb5.shfiles.cfd/live/13/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.st/assets/thumb/8f868ba8078de01e13fbebdd180360a3-thumbnail.jpg",New York Mets vs Los Angeles Angels (MAY 02 @ 06:38 PM PST)
+https://mb5.shfiles.cfd/live/14/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.st/assets/thumb/d6e94d02e8e788b241b003d8b31219d0-thumbnail.jpg",Kansas City Royals vs Seattle Mariners (MAY 02 @ 06:40 PM PST)
+https://mb5.shfiles.cfd/live/15/stream.m3u8
