@@ -1,0 +1,320 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC FN: Della Maddalena vs Prates (AU TIME) (MAY 02 @ 04:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",UFC FN: Della Maddalena vs Prates (AU TIME) (MAY 02 @ 04:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/tnt.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="INOUE vs NAKATANI (MAY 02 @ 05:50 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",INOUE vs NAKATANI (MAY 02 @ 05:50 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/ppv.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bologna vs Cagliari (MAY 02 @ 06:30 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/cbcb080e093614c9ca57a9b1b5eb6934-thumbnail.jpg" group-title="Soccer",Bologna vs Cagliari (MAY 02 @ 06:30 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/golazo.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Hibernian vs Celtic (MAY 02 @ 07:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="Soccer",Hibernian vs Celtic (MAY 02 @ 07:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/main.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta Vigo vs Elche (MAY 02 @ 08:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/86370f67e393da26492fb5cc61af4853-thumbnail.jpg" group-title="Soccer",Celta Vigo vs Elche (MAY 02 @ 08:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/dep.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bournemouth vs Crystal Palace (MAY 02 @ 09:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/879ef8cd686921892497337c87b1ee9f-thumbnail.jpg" group-title="Soccer",Bournemouth vs Crystal Palace (MAY 02 @ 09:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/beines.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs Milan (MAY 02 @ 09:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/de433b1a947e5af3cf41d7bb97e983fb-thumbnail.jpg" group-title="Soccer",Sassuolo vs Milan (MAY 02 @ 09:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/golazo.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lille vs Le Havre (MAY 02 @ 09:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/842bbf662b7e180a88d95432ecd4daad-thumbnail.jpg" group-title="Soccer",Lille vs Le Havre (MAY 02 @ 09:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/napoli.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Pauli vs Mainz (MAY 02 @ 09:30 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/82f0d1eeaf8b4f921cb572c4402d4ee8-thumbnail.jpg" group-title="Soccer",St. Pauli vs Mainz (MAY 02 @ 09:30 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/one.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolves vs Sunderland (MAY 02 @ 10:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Wolves vs Sunderland (MAY 02 @ 10:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/sunderland.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Northampton vs Plymouth (MAY 02 @ 10:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Northampton vs Plymouth (MAY 02 @ 10:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/plymouth.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Valencia vs Atlético Madrid (MAY 02 @ 10:15 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/f5b6f3283f679cc2a6a9c6d836f08722-thumbnail.jpg" group-title="Soccer",Valencia vs Atlético Madrid (MAY 02 @ 10:15 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/dep.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Man United vs Liverpool (MAY 02 @ 10:30 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/2b7f2b6e621869dd0f0abc0667292eba-thumbnail.jpg" group-title="Soccer",Man United vs Liverpool (MAY 02 @ 10:30 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/usa.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="PSG vs Lorient (MAY 02 @ 11:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",PSG vs Lorient (MAY 02 @ 11:00 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/beines.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs Toulouse (MAY 02 @ 11:15 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/8cdf48a28efa4795cb398b3128fbb805-thumbnail.jpg" group-title="Soccer",Strasbourg vs Toulouse (MAY 02 @ 11:15 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/napoli.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs Napoli (MAY 03 @ 12:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Como vs Napoli (MAY 03 @ 12:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/napoli.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal vs Fulham (MAY 03 @ 12:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Arsenal vs Fulham (MAY 03 @ 12:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/main.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayer Leverkusen vs RB Leipzig (MAY 03 @ 12:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Bayer Leverkusen vs RB Leipzig (MAY 03 @ 12:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/one.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo Alavés vs Athletic Club (MAY 03 @ 12:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Deportivo Alavés vs Athletic Club (MAY 03 @ 12:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/dep.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Metz vs Monaco (MAY 03 @ 01:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Metz vs Monaco (MAY 03 @ 01:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/beines.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Famalicão vs Benfica (MAY 03 @ 01:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Famalicão vs Benfica (MAY 03 @ 01:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/benfica.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toronto FC vs SJ (MAY 03 @ 01:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Toronto FC vs SJ (MAY 03 @ 01:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mls.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sporting KC vs Seattle Sounders (MAY 03 @ 02:30 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/d6e94d02e8e788b241b003d8b31219d0-thumbnail.jpg" group-title="Soccer",Sporting KC vs Seattle Sounders (MAY 03 @ 02:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb10.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs Genoa (MAY 03 @ 02:45 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Atalanta vs Genoa (MAY 03 @ 02:45 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/napoli.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs Osasuna (MAY 03 @ 03:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Barcelona vs Osasuna (MAY 03 @ 03:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/dep.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Botafogo vs Remo (MAY 03 @ 03:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/c58450a69fa3192d91d02a8353ade9e3-thumbnail.jpg" group-title="Soccer",Botafogo vs Remo (MAY 03 @ 03:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/fana4.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nice vs Lens (MAY 03 @ 03:05 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Nice vs Lens (MAY 03 @ 03:05 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/beines.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Boca Juniors vs Central Córdoba SdE (MAY 03 @ 03:15 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Boca Juniors vs Central Córdoba SdE (MAY 03 @ 03:15 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/fana2.m3u8
+
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="Formula 1 - Qualifying (MAY 03 @ 04:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",Formula 1 - Qualifying (MAY 03 @ 04:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/f1.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Athletics (MAY 03 @ 04:05 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",Cleveland Guardians vs Athletics (MAY 03 @ 04:05 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb4.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds vs Pittsburgh Pirates (MAY 03 @ 04:05 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/1f37855c3608a1298269a47e19e44e5b-thumbnail.jpg" group-title="MLB",Cincinnati Reds vs Pittsburgh Pirates (MAY 03 @ 04:05 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb5.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Washington Nationals (MAY 03 @ 04:05 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/MLB.png" group-title="MLB",Milwaukee Brewers vs Washington Nationals (MAY 03 @ 04:05 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb6.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Boston Red Sox (MAY 03 @ 04:10 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="MLB",Houston Astros vs Boston Red Sox (MAY 03 @ 04:10 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb7.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Miami Marlins (MAY 03 @ 04:10 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="MLB",Philadelphia Phillies vs Miami Marlins (MAY 03 @ 04:10 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb8.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Salt Lake vs Portland Timbers (MAY 03 @ 04:45 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/c0da705a117ab47cbf63eaa1ff21aa53-thumbnail.jpg" group-title="Soccer",Real Salt Lake vs Portland Timbers (MAY 03 @ 04:45 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb10.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Palmeiras vs Santos (MAY 03 @ 05:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Palmeiras vs Santos (MAY 03 @ 05:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/fana3.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BENAVIDEZ VS. ZURDO (MAY 03 @ 05:40 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Fighting",BENAVIDEZ VS. ZURDO (MAY 03 @ 05:40 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/ppv2.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Tampa Bay Rays (MAY 03 @ 06:10 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/aa5b41885454d4689153419965eef029-thumbnail.jpg" group-title="MLB",San Francisco Giants vs Tampa Bay Rays (MAY 03 @ 06:10 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb9.m3u8
+
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="AMA Supercross - Heats & Races (MAY 03 @ 07:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",AMA Supercross - Heats & Races (MAY 03 @ 07:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/sx.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PFL: Storley vs. Zendeli (MAY 03 @ 07:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",PFL: Storley vs. Zendeli (MAY 03 @ 07:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/ppv3.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Inter Miami vs Orlando City (MAY 03 @ 07:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/27bafa467cdb43114e5d20bc498bcb73-thumbnail.jpg" group-title="Soccer",Inter Miami vs Orlando City (MAY 03 @ 07:15 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb5.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs St. Louis Cardinals (MAY 03 @ 07:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/b260fb361131010209567b4f612bd222-thumbnail.jpg" group-title="MLB",Los Angeles Dodgers vs St. Louis Cardinals (MAY 03 @ 07:15 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb10.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Detroit Tigers (MAY 03 @ 07:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/270e202a3a254a6d62d0786a43b5b15e-thumbnail.jpg" group-title="MLB",Texas Rangers vs Detroit Tigers (MAY 03 @ 07:15 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb11.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs Boston Celtics (MAY 03 @ 07:30 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="NBA",Philadelphia 76ers vs Boston Celtics (MAY 03 @ 07:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/nba.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletico-PR vs Gremio (MAY 03 @ 07:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Athletico-PR vs Gremio (MAY 03 @ 07:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/fana5.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cruzeiro vs Atletico Mineiro (MAY 03 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Cruzeiro vs Atletico Mineiro (MAY 03 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/fana6.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Philadelphia Flyers vs Carolina Hurricanes (MAY 03 @ 08:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/23f32425d2141526885c53ec76f712fe-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Carolina Hurricanes (MAY 03 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/nhl.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs Colorado Rockies (MAY 03 @ 08:10 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/1c762269f02066b393f40b05208f9868-thumbnail.jpg" group-title="MLB",Atlanta Braves vs Colorado Rockies (MAY 03 @ 08:10 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb12.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs San Diego Padres (MAY 03 @ 08:40 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/ee9042b7f5177b480ea09497488d8f78-thumbnail.jpg" group-title="MLB",Chicago White Sox vs San Diego Padres (MAY 03 @ 08:40 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb13.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tigres vs Chivas (MAY 03 @ 09:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/24ab691f0b1e3d94ff2627ee6efd5299-thumbnail.jpg" group-title="Soccer",Tigres vs Chivas (MAY 03 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/chivas.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Los Angeles Angels (MAY 03 @ 09:38 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/8f868ba8078de01e13fbebdd180360a3-thumbnail.jpg" group-title="MLB",New York Mets vs Los Angeles Angels (MAY 03 @ 09:38 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb14.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Seattle Mariners (MAY 03 @ 09:40 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/d6e94d02e8e788b241b003d8b31219d0-thumbnail.jpg" group-title="MLB",Kansas City Royals vs Seattle Mariners (MAY 03 @ 09:40 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://601.nimesh.eu.cc/mlb15.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atlas vs Cruz Azul (MAY 03 @ 11:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/a35a44def4aaef3cbfb9de4b3ebb9d0c-thumbnail.jpg" group-title="Soccer",Atlas vs Cruz Azul (MAY 03 @ 11:15 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+https://daffodil.nimesh.eu.cc/tudn.m3u8
+
