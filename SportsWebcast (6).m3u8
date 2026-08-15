@@ -1,22 +1,186 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-id="161" tvg-name="ABC AUSTRALIA" group-title="SKY",ABC AUSTRALIA
+https://getoken.cocker-tk.workers.dev/sky/161.m3u8
 
-#EXTINF:-1,TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="175" tvg-name="ANC" group-title="SKY",ANC
+https://getoken.cocker-tk.workers.dev/sky/175.m3u8
 
-#EXTINF:-1,TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="158" tvg-name="BBC EARTH" group-title="SKY",BBC EARTH
+https://getoken.cocker-tk.workers.dev/sky/158.m3u8
 
-#EXTINF:-1,TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id="129" tvg-name="BUKO CH" group-title="SKY",BUKO CH
+https://getoken.cocker-tk.workers.dev/sky/129.m3u8
 
-#EXTINF:-1,TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="145" tvg-name="CARTOON NETWORK" group-title="SKY",CARTOON NETWORK
+https://getoken.cocker-tk.workers.dev/sky/145.m3u8
 
+#EXTINF:-1 tvg-id="147" tvg-name="CARTOONITO" group-title="SKY",CARTOONITO
+https://getoken.cocker-tk.workers.dev/sky/147.m3u8
+
+#EXTINF:-1 tvg-id="200" tvg-name="CELESTIAL PINOY" group-title="SKY",CELESTIAL PINOY
+https://getoken.cocker-tk.workers.dev/sky/200.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-name="CINEMA ONE" group-title="SKY",CINEMA ONE
+https://getoken.cocker-tk.workers.dev/sky/152.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="CINEMO" group-title="SKY",CINEMO
+https://getoken.cocker-tk.workers.dev/sky/104.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-name="CNN INT" group-title="SKY",CNN INT
+https://getoken.cocker-tk.workers.dev/sky/123.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-name="CRIME INVESTIGATION" group-title="SKY",CRIME INVESTIGATION
+https://getoken.cocker-tk.workers.dev/sky/156.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="DZRH" group-title="SKY",DZRH
+https://getoken.cocker-tk.workers.dev/sky/120.m3u8
+
+#EXTINF:-1 tvg-id="138" tvg-name="ESPN" group-title="SKY",ESPN
+https://getoken.cocker-tk.workers.dev/sky/138.m3u8
+
+#EXTINF:-1 tvg-id="194" tvg-name="FASHION TV" group-title="SKY",FASHION TV
+https://getoken.cocker-tk.workers.dev/sky/194.m3u8
+
+#EXTINF:-1 tvg-id="133" tvg-name="FIGHT SPORTS" group-title="SKY",FIGHT SPORTS
+https://getoken.cocker-tk.workers.dev/sky/133.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="GMA NEWS TV" group-title="SKY",GMA NEWS TV
+https://getoken.cocker-tk.workers.dev/sky/103.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="GMA7" group-title="SKY",GMA7
+https://getoken.cocker-tk.workers.dev/sky/98.m3u8
+
+#EXTINF:-1 tvg-id="137" tvg-name="GOLF PH" group-title="SKY",GOLF PH
+https://getoken.cocker-tk.workers.dev/sky/137.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-name="HBO" group-title="SKY",HBO
+https://getoken.cocker-tk.workers.dev/sky/180.m3u8
+
+#EXTINF:-1 tvg-id="191" tvg-name="HBO FAM" group-title="SKY",HBO FAM
+https://getoken.cocker-tk.workers.dev/sky/191.m3u8
+
+#EXTINF:-1 tvg-id="192" tvg-name="HBO SIGNATURE" group-title="SKY",HBO SIGNATURE
+https://getoken.cocker-tk.workers.dev/sky/192.m3u8
+
+#EXTINF:-1 tvg-id="153" tvg-name="HISTORY" group-title="SKY",HISTORY
+https://getoken.cocker-tk.workers.dev/sky/153.m3u8
+
+#EXTINF:-1 tvg-id="195" tvg-name="HITS" group-title="SKY",HITS
+https://getoken.cocker-tk.workers.dev/sky/195.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="IBC 13" group-title="SKY",IBC 13
+https://getoken.cocker-tk.workers.dev/sky/99.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-name="INC" group-title="SKY",INC
+https://getoken.cocker-tk.workers.dev/sky/202.m3u8
+
+#EXTINF:-1 tvg-id="165" tvg-name="JEEPNEY" group-title="SKY",JEEPNEY
+https://getoken.cocker-tk.workers.dev/sky/165.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="KAPAMILYA" group-title="SKY",KAPAMILYA
+https://getoken.cocker-tk.workers.dev/sky/101.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="KBS WORLD" group-title="SKY",KBS WORLD
+https://getoken.cocker-tk.workers.dev/sky/118.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="KIX" group-title="SKY",KIX
+https://getoken.cocker-tk.workers.dev/sky/111.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="KNOWLEDGE CH" group-title="SKY",KNOWLEDGE CH
+https://getoken.cocker-tk.workers.dev/sky/159.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-name="LIFESTYLE" group-title="SKY",LIFESTYLE
+https://getoken.cocker-tk.workers.dev/sky/169.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-name="LIFETIME" group-title="SKY",LIFETIME
+https://getoken.cocker-tk.workers.dev/sky/143.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-name="LOTUS MACAU" group-title="SKY",LOTUS MACAU
+https://getoken.cocker-tk.workers.dev/sky/167.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="LOVE NATURE" group-title="SKY",LOVE NATURE
+https://getoken.cocker-tk.workers.dev/sky/154.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-name="METRO CHANNEL" group-title="SKY",METRO CHANNEL
+https://getoken.cocker-tk.workers.dev/sky/130.m3u8
+
+#EXTINF:-1 tvg-id="136" tvg-name="NBA PH" group-title="SKY",NBA PH
+https://getoken.cocker-tk.workers.dev/sky/136.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-name="NICK JR" group-title="SKY",NICK JR
+https://getoken.cocker-tk.workers.dev/sky/149.m3u8
+
+#EXTINF:-1 tvg-id="150" tvg-name="NICKELODEON" group-title="SKY",NICKELODEON
+https://getoken.cocker-tk.workers.dev/sky/150.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-name="ONE MEDIA" group-title="SKY",ONE MEDIA
+https://getoken.cocker-tk.workers.dev/sky/160.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-name="ONE NEWS" group-title="SKY",ONE NEWS
+https://getoken.cocker-tk.workers.dev/sky/124.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-name="ONE PH" group-title="SKY",ONE PH
+https://getoken.cocker-tk.workers.dev/sky/162.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-name="ONE SPORTS" group-title="SKY",ONE SPORTS
+https://getoken.cocker-tk.workers.dev/sky/135.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-name="PBA RUSH" group-title="SKY",PBA RUSH
+https://getoken.cocker-tk.workers.dev/sky/134.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="PBO" group-title="SKY",PBO
+https://getoken.cocker-tk.workers.dev/sky/105.m3u8
+
+#EXTINF:-1 tvg-id="142" tvg-name="PINOY EXTREME" group-title="SKY",PINOY EXTREME
+https://getoken.cocker-tk.workers.dev/sky/142.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="PREMIER SPORTS" group-title="SKY",PREMIER SPORTS
+https://getoken.cocker-tk.workers.dev/sky/206.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="PTV 4" group-title="SKY",PTV 4
+https://getoken.cocker-tk.workers.dev/sky/100.m3u8
+
+#EXTINF:-1 tvg-id="174" tvg-name="ROCK ENTERTAINMENT" group-title="SKY",ROCK ENTERTAINMENT
+https://getoken.cocker-tk.workers.dev/sky/174.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="RPTV" group-title="SKY",RPTV
+https://getoken.cocker-tk.workers.dev/sky/127.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="SMNI" group-title="SKY",SMNI
+https://getoken.cocker-tk.workers.dev/sky/119.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-name="SOLAR FLIX" group-title="SKY",SOLAR FLIX
+https://getoken.cocker-tk.workers.dev/sky/115.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="TAP ACTION FLIX" group-title="SKY",TAP ACTION FLIX
+https://getoken.cocker-tk.workers.dev/sky/113.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="TAP MOVIES" group-title="SKY",TAP MOVIES
+https://getoken.cocker-tk.workers.dev/sky/116.m3u8
+
+#EXTINF:-1 tvg-id="139" tvg-name="TAP SPORTS" group-title="SKY",TAP SPORTS
+https://getoken.cocker-tk.workers.dev/sky/139.m3u8
+
+#EXTINF:-1 tvg-id="199" tvg-name="TLC" group-title="SKY",TLC
+https://getoken.cocker-tk.workers.dev/sky/199.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="TMC" group-title="SKY",TMC
+https://getoken.cocker-tk.workers.dev/sky/102.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="TRACESPORTS" group-title="SKY",TRACESPORTS
+https://getoken.cocker-tk.workers.dev/sky/141.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="TV 5" group-title="SKY",TV 5
+https://getoken.cocker-tk.workers.dev/sky/114.m3u8
+
+#EXTINF:-1 tvg-id="181" tvg-name="TVN" group-title="SKY",TVN
+https://getoken.cocker-tk.workers.dev/sky/181.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="UNTV" group-title="SKY",UNTV
+https://getoken.cocker-tk.workers.dev/sky/182.m3u8
+
+#EXTINF:-1 tvg-id="186" tvg-name="VIVA" group-title="SKY",VIVA
+https://getoken.cocker-tk.workers.dev/sky/186.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-name="WARNER TV" group-title="SKY",WARNER TV
+https://getoken.cocker-tk.workers.dev/sky/173.m3u8
